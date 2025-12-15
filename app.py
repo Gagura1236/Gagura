@@ -49,13 +49,13 @@ df, embed_model, doc_embeddings = load_resources()
 with st.sidebar:
     st.title("🔮 設定")
     
-    st.subheader("1. 腦袋 (文字推理)")
+    st.subheader("1. 講給你聽 (文字推理)")
     groq_api_key = st.text_input("Groq API Key", type="password", help="gsk_開頭")
     st.markdown("[取得 Groq Key](https://console.groq.com/keys)")
 
     st.divider()
 
-    st.subheader("2. 畫師 (圖像生成)")
+    st.subheader("2. 畫給你看 (圖像生成)")
     image_model_choice = st.radio(
         "選擇繪圖模型",
         [
