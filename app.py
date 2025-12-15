@@ -96,11 +96,11 @@ st.markdown("請在心中默念您的疑問，描述當下的處境，AI 將為�
 with st.form("query_form"):
     col1, col2 = st.columns(2)
     with col1:
-        user_event = st.text_area("1. 發生了什麼事？請儘量描述", height=300, placeholder="例如：剛換新工作，同事很難相處...")
+        user_event = st.text_area("1. 發生了什麼事？請儘量描述細節與情境", height=400, placeholder="例如：剛換新工作，同事很難相處...")
     with col2:
-        user_question = st.text_area("2. 想問什麼？", height=300, placeholder="例如：我該離職還是繼續撐下去？")
+        user_question = st.text_area("2. 想問什麼？儘量聚焦在自己可以改變的地方", height=400, placeholder="例如：我該離職還是繼續撐下去？")
     
-    submitted = st.form_submit_button("🔍 開始卜卦")
+    submitted = st.form_submit_button("🔍 易經哲學觀")
 
 # --- 5. 執行運算 ---
 if submitted:
@@ -111,7 +111,7 @@ if submitted:
     else:
         full_query = f"事件：{user_event}。疑問：{user_question}"
         
-        with st.spinner('正在連結宇宙磁場，檢索 384 爻...'):
+        with st.spinner('正在連結傳承千年的智慧，易經不是算命，是告訴你目前處境在哪個節點...'):
             # A. 向量搜尋
             query_embedding = embed_model.encode(full_query, convert_to_tensor=True)
             cos_scores = util.cos_sim(query_embedding, doc_embeddings)[0]
@@ -131,7 +131,7 @@ if submitted:
         """, unsafe_allow_html=True)
 
         # B. LLM 解讀
-        with st.spinner('大師正在撰寫解籤...'):
+        with st.spinner('智慧之書正在撰寫解籤...'):
             try:
                 chat = ChatGroq(temperature=0.7, groq_api_key=groq_api_key, model_name="llama-3.3-70b-versatile")
                 
@@ -140,7 +140,7 @@ if submitted:
                 human_prompt = f"""
                 使用者情境：{full_query}
                 
-                卜卦結果：
+                對應易經爻辭結果：
                 卦名：{hex_name}
                 原文：{original_text}
                 白話意涵：{translation}
@@ -170,7 +170,7 @@ if submitted:
                 - 給予一段溫暖、充滿力量的祝福或定心丸。
 
                 ---
-                (重要：請在回答的最後面，獨立一行，提供一段約 50-80 個單字的「英文」圖像生成提示詞 (Image Prompt)。這段提示詞要能視覺化呈現你上述「卦象深度解析」中的核心意境與氛圍，風格要求為：東方水墨畫結合現代藝術哲學感。請務必以 "IMAGE_PROMPT:" 開頭。)
+                (重要：請在回答的最後面，獨立一行，提供一段約 50-80 個單字的「英文」圖像生成提示詞 (Image Prompt)。這段提示詞要能視覺化呈現你上述「卦象深度解析」中的核心意境與氛圍，風格要求為：寫實風景畫結合後現代藝術與哲學感。請務必以 "IMAGE_PROMPT:" 開頭。)
                 """
                 
                 messages = [("system", system_prompt), ("human", human_prompt)]
