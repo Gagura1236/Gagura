@@ -1,0 +1,2688 @@
+[
+  {
+    "hexagram": "乾卦",
+    "position": "初九",
+    "original_text": "潛龍勿用。",
+    "modern_translation": "龍潛伏在水中，時機尚未成熟，應當韜光養晦，不宜輕舉妄動。",
+    "meaning_keywords": "等待, 隱忍, 沉潛, 時機未到, 準備"
+  },
+  {
+    "hexagram": "乾卦",
+    "position": "九二",
+    "original_text": "見龍在田，利見大人。",
+    "modern_translation": "龍出現在田野上，展露頭角的時刻到了，有利於去拜見大人物或尋求合作。",
+    "meaning_keywords": "機會, 貴人, 展現, 合作, 初露鋒芒"
+  },
+  {
+    "hexagram": "乾卦",
+    "position": "九三",
+    "original_text": "君子終日乾乾，夕惕若，厲無咎。",
+    "modern_translation": "君子整天勤奮不懈，晚上也保持警惕，雖然處境艱難，但因為謹慎所以不會有災禍。",
+    "meaning_keywords": "勤奮, 警惕, 努力, 謹慎, 憂患意識"
+  },
+  {
+    "hexagram": "乾卦",
+    "position": "九四",
+    "original_text": "或躍在淵，無咎。",
+    "modern_translation": "像龍一樣，或者躍上天空，或者退守深淵，根據情勢進退，只要看準時機就不會有過失。",
+    "meaning_keywords": "進退, 抉擇, 嘗試, 測試, 靈活"
+  },
+  {
+    "hexagram": "乾卦",
+    "position": "九五",
+    "original_text": "飛龍在天，利見大人。",
+    "modern_translation": "龍飛翔在天空，處於最尊貴的位置，大展宏圖，有利於會見貴人或領導眾人。",
+    "meaning_keywords": "成功, 高峰, 領導, 權力, 大展身手"
+  },
+  {
+    "hexagram": "乾卦",
+    "position": "上九",
+    "original_text": "亢龍有悔。",
+    "modern_translation": "龍飛得太高，脫離了群眾，勢必會後悔。意指事情做過頭，物極必反。",
+    "meaning_keywords": "傲慢, 後悔, 過度, 物極必反, 衰退"
+  },
+  {
+    "hexagram": "坤卦",
+    "position": "初六",
+    "original_text": "履霜，堅冰至。",
+    "modern_translation": "腳踩到了霜，就知道寒冬的堅冰快要來了。比喻見微知著，要提早防範危機。",
+    "meaning_keywords": "徵兆, 預警, 防範, 危機, 觀察"
+  },
+  {
+    "hexagram": "坤卦",
+    "position": "六二",
+    "original_text": "直方大，不習無不利。",
+    "modern_translation": "正直、端方、胸襟廣大，具備這些天性，即使不刻意學習修飾，做什麼都不會有不利。",
+    "meaning_keywords": "正直, 自然, 順利, 品德, 簡單"
+  },
+  {
+    "hexagram": "坤卦",
+    "position": "六三",
+    "original_text": "含章可貞，或從王事，無成有終。",
+    "modern_translation": "蘊含美德而不外露，如果輔佐君王，不居功自傲，雖然沒有個人的成就，但能有完美的結局。",
+    "meaning_keywords": "輔佐, 低調, 不居功, 內涵, 配合"
+  },
+  {
+    "hexagram": "坤卦",
+    "position": "六四",
+    "original_text": "括囊，無咎無譽。",
+    "modern_translation": "像紮緊口袋一樣，閉口不言，收斂鋒芒，這樣既不會有過失，也不會有讚譽（安全第一）。",
+    "meaning_keywords": "沈默, 收斂, 保身, 謹慎, 閉嘴"
+  },
+  {
+    "hexagram": "坤卦",
+    "position": "六五",
+    "original_text": "黃裳，元吉。",
+    "modern_translation": "穿著黃色的下裙（象徵中正柔順），大吉大利。代表處於尊位但保持謙和。",
+    "meaning_keywords": "謙虛, 柔順, 中庸, 大吉, 溫和"
+  },
+  {
+    "hexagram": "坤卦",
+    "position": "上六",
+    "original_text": "龍戰于野，其血玄黃。",
+    "modern_translation": "陰氣極盛與陽氣相爭，兩條龍在野外戰鬥，流著青黃色的血。比喻矛盾激化導致兩敗俱傷。",
+    "meaning_keywords": "衝突, 戰鬥, 兩敗俱傷, 矛盾, 毀滅"
+  },
+  {
+    "hexagram": "屯卦",
+    "position": "初九",
+    "original_text": "磐桓，利居貞，利建侯。",
+    "modern_translation": "萬事起頭難，徘徊不前。此時利於守正安居，建立根基，為將來做準備。",
+    "meaning_keywords": "創業, 起步, 困難, 打基礎, 徘徊"
+  },
+  {
+    "hexagram": "屯卦",
+    "position": "六二",
+    "original_text": "屯如邅如，乘馬班如。匪寇婚媾。",
+    "modern_translation": "進退兩難，騎馬盤旋不前。這不是強盜來襲，而是求婚者。比喻看似困難，實則是結合的好機會。",
+    "meaning_keywords": "猶豫, 誤會, 結合, 追求, 進退兩難"
+  },
+  {
+    "hexagram": "屯卦",
+    "position": "六三",
+    "original_text": "即鹿無虞，惟入于林中。君子幾不如捨，往吝。",
+    "modern_translation": "追逐鹿卻沒有嚮導，只會迷失在山林中。君子見機行事不如放棄，硬要前往會自取其辱。",
+    "meaning_keywords": "迷失, 放棄, 盲目, 風險, 停止"
+  },
+  {
+    "hexagram": "屯卦",
+    "position": "六四",
+    "original_text": "乘馬班如，求婚媾，往吉，無不利。",
+    "modern_translation": "騎馬盤旋，是為了尋求合作夥伴。這時候前往求賢或求婚是吉利的。",
+    "meaning_keywords": "合作, 尋求, 夥伴, 吉利, 行動"
+  },
+  {
+    "hexagram": "屯卦",
+    "position": "九五",
+    "original_text": "屯其膏，小貞吉，大貞凶。",
+    "modern_translation": "只顧自己囤積恩澤而不下放。處理小事吉利，處理大事則凶險，因為缺乏廣大支持。",
+    "meaning_keywords": "吝嗇, 小格局, 孤立, 限制, 凶險"
+  },
+  {
+    "hexagram": "屯卦",
+    "position": "上六",
+    "original_text": "乘馬班如，泣血漣如。",
+    "modern_translation": "騎馬盤旋無路可走，悲傷得血淚交流。比喻處於窮途末路，孤立無援。",
+    "meaning_keywords": "絕望, 悲傷, 窮途末路, 失敗, 痛苦"
+  },
+{
+    "hexagram": "蒙卦",
+    "position": "初六",
+    "original_text": "發蒙，利用刑人，用說桎梏，以往吝。",
+    "modern_translation": "啟發蒙昧無知的人，要利用規範和典範。目的是為了脫去他身上的枷鎖（無知）。但如果只是前往而不加以教導，會令人遺憾。",
+    "meaning_keywords": "教育, 啟蒙, 學習, 規範, 規則"
+  },
+  {
+    "hexagram": "蒙卦",
+    "position": "九二",
+    "original_text": "包蒙吉；納婦吉；子克家。",
+    "modern_translation": "包容蒙昧無知的人，吉利；接納像婦人般柔順的人，吉利；兒子能夠承擔家業。",
+    "meaning_keywords": "包容, 接納, 寬恕, 承擔, 吉利"
+  },
+  {
+    "hexagram": "蒙卦",
+    "position": "六三",
+    "original_text": "勿用取女，見金夫，不有躬，無攸利。",
+    "modern_translation": "不宜娶這個女子，因為她見到有錢的男人就失身，無法保有自身節操，沒有什麼好處。",
+    "meaning_keywords": "拜金, 誘惑, 錯誤選擇, 不利, 慎選"
+  },
+  {
+    "hexagram": "蒙卦",
+    "position": "六四",
+    "original_text": "困蒙，吝。",
+    "modern_translation": "因為蒙昧無知而陷入困境，這是一種令人遺憾的狀況。代表缺乏指導，孤立無援。",
+    "meaning_keywords": "困惑, 孤立, 無知, 遺憾, 缺乏指導"
+  },
+  {
+    "hexagram": "蒙卦",
+    "position": "六五",
+    "original_text": "童蒙，吉。",
+    "modern_translation": "像兒童一樣天真純潔的蒙昧，是吉利的。代表謙虛地尋求教導。",
+    "meaning_keywords": "天真, 謙虛, 好學, 吉利, 純真"
+  },
+  {
+    "hexagram": "蒙卦",
+    "position": "上九",
+    "original_text": "擊蒙，不利為寇，利禦寇。",
+    "modern_translation": "用擊打的方式來啟發蒙昧，不宜像強盜一樣殘暴，而應該像防禦強盜一樣嚴格且有原則。",
+    "meaning_keywords": "嚴厲, 懲罰, 原則, 防禦, 手段"
+  },
+  {
+    "hexagram": "需卦",
+    "position": "初九",
+    "original_text": "需于郊。利用恆，無咎。",
+    "modern_translation": "在郊外等待。利於保持恆心，不會有過失。代表時機還很遠，要有長期的耐心。",
+    "meaning_keywords": "等待, 恆心, 耐心, 長期, 郊外"
+  },
+  {
+    "hexagram": "需卦",
+    "position": "九二",
+    "original_text": "需于沙。小有言，終吉。",
+    "modern_translation": "在沙灘上等待。雖然會受到一些言語中傷或責難，但最終是吉利的。",
+    "meaning_keywords": "閒話, 中傷, 等待, 最終吉利, 忍耐"
+  },
+  {
+    "hexagram": "需卦",
+    "position": "九三",
+    "original_text": "需于泥，致寇至。",
+    "modern_translation": "在泥沼中等待，結果招致了強盜。比喻處境艱難，容易招來災害，要自我警惕。",
+    "meaning_keywords": "泥沼, 風險, 招災, 危機, 警惕"
+  },
+  {
+    "hexagram": "需卦",
+    "position": "六四",
+    "original_text": "需于血，出自穴。",
+    "modern_translation": "在血泊中等待，但最終能從洞穴中逃出來。比喻雖然受傷或遭遇流血事件，但能脫離險境。",
+    "meaning_keywords": "受傷, 險境, 逃脫, 血光, 絕處逢生"
+  },
+  {
+    "hexagram": "需卦",
+    "position": "九五",
+    "original_text": "需于酒食，貞吉。",
+    "modern_translation": "在酒食宴樂中等待，堅守正道則吉利。代表在等待的過程中，懂得放鬆身心，養精蓄銳。",
+    "meaning_keywords": "放鬆, 享受, 養精蓄銳, 宴樂, 吉利"
+  },
+  {
+    "hexagram": "需卦",
+    "position": "上六",
+    "original_text": "入于穴，有不速之客三人來，敬之終吉。",
+    "modern_translation": "進入洞穴，有三位不請自來的客人到了，如果能恭敬地對待他們，最終是吉利的。",
+    "meaning_keywords": "意外, 客人, 恭敬, 轉機, 禮貌"
+  },
+{
+    "hexagram": "訟卦",
+    "position": "初六",
+    "original_text": "不永所事，小有言，終吉。",
+    "modern_translation": "不要把爭訟的事情拖得太久，雖然有一點言語紛爭，但最終是吉利的。意思是儘早停止爭端。",
+    "meaning_keywords": "停止, 和解, 爭端, 謠言, 吉利"
+  },
+  {
+    "hexagram": "訟卦",
+    "position": "九二",
+    "original_text": "不克訟，歸而逋其邑人三百戶，無眚。",
+    "modern_translation": "打官司失敗了，回來躲避在三百戶的小封地裡，不會有災禍。意指自知理虧或實力不足，退一步海闊天空。",
+    "meaning_keywords": "失敗, 躲避, 退讓, 自知之明, 平安"
+  },
+  {
+    "hexagram": "訟卦",
+    "position": "六三",
+    "original_text": "食舊德，貞厲，終吉。或從王事，無成。",
+    "modern_translation": "安享舊有的福德，雖然艱難，但最終吉利。如果輔佐王事，不要追求個人的成就。",
+    "meaning_keywords": "守舊, 安分, 輔佐, 不居功, 平穩"
+  },
+  {
+    "hexagram": "訟卦",
+    "position": "九四",
+    "original_text": "不克訟，復即命，渝安貞，吉。",
+    "modern_translation": "打官司打不贏，回頭服從正理命令，改變心意安守正道，吉利。",
+    "meaning_keywords": "回頭, 服從, 改變, 正道, 止損"
+  },
+  {
+    "hexagram": "訟卦",
+    "position": "九五",
+    "original_text": "訟，元吉。",
+    "modern_translation": "關於爭訟的事，大吉大利。因為處於公正判決的位置，能夠定奪是非。",
+    "meaning_keywords": "公正, 判決, 大吉, 勝利, 權威"
+  },
+  {
+    "hexagram": "訟卦",
+    "position": "上九",
+    "original_text": "或錫之鞶帶，終朝三褫之。",
+    "modern_translation": "或許被賜予官服腰帶（贏了官司），但在一天之內就被剝奪三次。比喻靠爭鬥得來的榮譽是保不住的。",
+    "meaning_keywords": "虛榮, 得而復失, 爭鬥, 不穩, 羞辱"
+  },
+  {
+    "hexagram": "師卦",
+    "position": "初六",
+    "original_text": "師出以律，否臧凶。",
+    "modern_translation": "軍隊出動要有紀律，如果失去紀律，就會有凶險。比喻團隊行動必須要有規則。",
+    "meaning_keywords": "紀律, 規則, 軍隊, 團隊, 凶險"
+  },
+  {
+    "hexagram": "師卦",
+    "position": "九二",
+    "original_text": "在師中，吉無咎，王三錫命。",
+    "modern_translation": "身在軍中指揮，吉利沒有災禍，君王三次下令嘉獎。代表受到重用，擔任指揮官。",
+    "meaning_keywords": "指揮, 重用, 嘉獎, 領導, 吉利"
+  },
+  {
+    "hexagram": "師卦",
+    "position": "六三",
+    "original_text": "師或輿尸，凶。",
+    "modern_translation": "軍隊或許會載著屍體回來，凶險。比喻作戰失敗，損失慘重。",
+    "meaning_keywords": "失敗, 慘重, 犧牲, 凶險, 錯誤決策"
+  },
+  {
+    "hexagram": "師卦",
+    "position": "六四",
+    "original_text": "師左次，無咎。",
+    "modern_translation": "軍隊向後撤退駐紮，沒有災禍。比喻暫時退避，保存實力。",
+    "meaning_keywords": "撤退, 保存實力, 暫停, 觀望, 無咎"
+  },
+  {
+    "hexagram": "師卦",
+    "position": "六五",
+    "original_text": "田有禽，利執言，無咎。長子帥師，弟子輿尸，貞凶。",
+    "modern_translation": "田野有禽獸，利於發表意見捕捉。應由老成的長子率領軍隊，如果用平庸的弟子指揮，就會載著屍體回來，凶險。",
+    "meaning_keywords": "選才, 指揮權, 專業, 凶險, 用人"
+  },
+  {
+    "hexagram": "師卦",
+    "position": "上六",
+    "original_text": "大君有命，開國承家，小人勿用。",
+    "modern_translation": "君王頒布命令，分封諸侯，但不可以重用小人。比喻論功行賞時，要區分君子和小人。",
+    "meaning_keywords": "論功行賞, 分封, 避開小人, 結局, 獎賞"
+  },
+  {
+    "hexagram": "比卦",
+    "position": "初六",
+    "original_text": "有孚比之，無咎。有孚盈缶，終來有他吉。",
+    "modern_translation": "有誠信地去親近他人，沒有災禍。誠信像裝滿瓦罐的水一樣充實，最終會有意外的吉利。",
+    "meaning_keywords": "誠信, 親近, 交友, 充實, 吉利"
+  },
+  {
+    "hexagram": "比卦",
+    "position": "六二",
+    "original_text": "比之自內，貞吉。",
+    "modern_translation": "從內部開始親近團結，堅持正道吉利。比喻先搞好內部關係。",
+    "meaning_keywords": "內部, 團結, 家人, 核心, 吉利"
+  },
+  {
+    "hexagram": "比卦",
+    "position": "六三",
+    "original_text": "比之匪人。",
+    "modern_translation": "親近了不該親近的人（匪人）。比喻交友不慎，誤入歧途。",
+    "meaning_keywords": "損友, 錯誤關係, 誤入歧途, 壞人, 警惕"
+  },
+  {
+    "hexagram": "比卦",
+    "position": "六四",
+    "original_text": "外比之，貞吉。",
+    "modern_translation": "向外去親近賢能的人，堅持正道吉利。比喻拓展人脈，尋求外部合作。",
+    "meaning_keywords": "外部, 合作, 人脈, 賢能, 吉利"
+  },
+  {
+    "hexagram": "比卦",
+    "position": "九五",
+    "original_text": "顯比，王用三驅，失前禽。邑人不誡，吉。",
+    "modern_translation": "光明正大地親近。就像君王打獵三面驅趕，捨棄迎面逃走的禽獸（不趕盡殺絕）。對屬下不強行約束，讓其心悅誠服，吉利。",
+    "meaning_keywords": "寬容, 自由, 領袖魅力, 光明正大, 吉利"
+  },
+  {
+    "hexagram": "比卦",
+    "position": "上六",
+    "original_text": "比之無首，凶。",
+    "modern_translation": "想要親近團結卻沒有領袖（或開始就沒有誠意），凶險。比喻群龍無首，或錯失了結盟的時機。",
+    "meaning_keywords": "無頭蒼蠅, 混亂, 錯失時機, 凶險, 缺乏誠意"
+  },
+  {
+    "hexagram": "小畜卦",
+    "position": "初九",
+    "original_text": "復自道，何其咎，吉。",
+    "modern_translation": "回到原本的正道上，有什麼過錯呢？吉利。代表發現路走不通，及時回頭或修正方向。",
+    "meaning_keywords": "回頭, 修正, 初衷, 吉利, 自省"
+  },
+  {
+    "hexagram": "小畜卦",
+    "position": "九二",
+    "original_text": "牽復，吉。",
+    "modern_translation": "被牽引著回到正道，吉利。代表有外力或夥伴協助你回到正確的位置。",
+    "meaning_keywords": "協助, 牽引,回歸, 合作, 被動"
+  },
+  {
+    "hexagram": "小畜卦",
+    "position": "九三",
+    "original_text": "輿說輻，夫妻反目。",
+    "modern_translation": "車輪的輻條脫落，夫妻反目成仇。比喻內部的基礎崩壞，最親近的人發生衝突，無法前行。",
+    "meaning_keywords": "衝突, 決裂, 故障, 夫妻, 停滯"
+  },
+  {
+    "hexagram": "小畜卦",
+    "position": "六四",
+    "original_text": "有孚，血去惕出，無咎。",
+    "modern_translation": "心懷誠信，就能免去血光之災和恐懼，沒有災禍。代表即便處境危險，誠信能化解危機。",
+    "meaning_keywords": "誠信, 化解危機, 恐懼, 避險, 信任"
+  },
+  {
+    "hexagram": "小畜卦",
+    "position": "九五",
+    "original_text": "有孚攣如，富以其鄰。",
+    "modern_translation": "誠信緊密連結，不僅自己富有，還與鄰居共享。比喻與人合作共享利益，影響力擴大。",
+    "meaning_keywords": "共享, 連結, 雙贏, 影響力, 團結"
+  },
+  {
+    "hexagram": "小畜卦",
+    "position": "上九",
+    "original_text": "既雨既處，尚德載，婦貞厲。月幾望，君子征凶。",
+    "modern_translation": "雨已經降下，安頓下來，累積的德行已經圓滿。這時如果要再強行前進會有危險，就像月亮將圓而未圓時最美，太過則凶。",
+    "meaning_keywords": "圓滿, 停止, 知足, 危險, 蓄勢"
+  },
+  {
+    "hexagram": "履卦",
+    "position": "初九",
+    "original_text": "素履，往無咎。",
+    "modern_translation": "穿著樸素的鞋子前行，沒有過失。比喻保持樸實、安守本分地做事，就能平安。",
+    "meaning_keywords": "樸實, 本分, 單純, 平安, 基礎"
+  },
+  {
+    "hexagram": "履卦",
+    "position": "九二",
+    "original_text": "履道坦坦，幽人貞吉。",
+    "modern_translation": "行走的大道平坦寬闊，像隱士一樣固守正道則吉利。比喻心無旁騖，走自己的路。",
+    "meaning_keywords": "平坦, 專注, 隱士, 心無旁騖, 吉利"
+  },
+  {
+    "hexagram": "履卦",
+    "position": "六三",
+    "original_text": "眇能視，跛能履，履虎尾，咥人，凶。武人為于大君。",
+    "modern_translation": "眼睛看不清卻要看，腳跛了卻要走，踩到了老虎尾巴，被咬傷，凶險。比喻能力不足卻逞強，冒險行事。",
+    "meaning_keywords": "逞強, 自不量力, 風險, 凶險, 魯莽"
+  },
+  {
+    "hexagram": "履卦",
+    "position": "九四",
+    "original_text": "履虎尾，愬愬，終吉。",
+    "modern_translation": "踩到了老虎尾巴，恐懼謹慎，最終吉利。比喻處境極度危險，但因為極度小心，反而化險為夷。",
+    "meaning_keywords": "驚險, 謹慎, 恐懼, 化險為夷, 轉機"
+  },
+  {
+    "hexagram": "履卦",
+    "position": "九五",
+    "original_text": "夬履，貞厲。",
+    "modern_translation": "剛斷果決地行動，但即使堅守正道也有危險。比喻位高權重時，過於強勢會帶來危機。",
+    "meaning_keywords": "強勢, 果決, 危險, 獨斷, 權力"
+  },
+  {
+    "hexagram": "履卦",
+    "position": "上九",
+    "original_text": "視履考祥，其旋元吉。",
+    "modern_translation": "回頭審視走過的路，考察禍福徵兆，如果圓滿周全，就是大吉。比喻善始善終，自我反省。",
+    "meaning_keywords": "反省, 總結, 圓滿, 大吉, 檢討"
+  },
+  {
+    "hexagram": "泰卦",
+    "position": "初九",
+    "original_text": "拔茅茹，以其彙，征吉。",
+    "modern_translation": "拔起茅草，根系相連帶出一整片。出征吉利。比喻志同道合的人團結一致，共同進取。",
+    "meaning_keywords": "團結, 團隊, 連鎖效應, 進取, 吉利"
+  },
+  {
+    "hexagram": "泰卦",
+    "position": "九二",
+    "original_text": "包荒，用馮河，不遐遺，朋亡，得尚于中行。",
+    "modern_translation": "包容荒穢，有徒步過河的勇氣，不遺忘遠方的人，不結黨營私，堅守中道。比喻胸懷寬廣，光明磊落。",
+    "meaning_keywords": "包容, 勇氣, 公正, 寬廣, 中道"
+  },
+  {
+    "hexagram": "泰卦",
+    "position": "九三",
+    "original_text": "無平不陂，無往不復，艱貞無咎。",
+    "modern_translation": "沒有只平不斜的路，沒有只去不回的旅程。在艱難中堅守正道，沒有災禍。比喻盛極必衰，要有憂患意識。",
+    "meaning_keywords": "變化, 循環, 憂患意識, 堅持, 無常"
+  },
+  {
+    "hexagram": "泰卦",
+    "position": "六四",
+    "original_text": "翩翩，不富以其鄰，不戒以孚。",
+    "modern_translation": "像鳥兒輕快飛翔，不靠財富而靠真誠與鄰居交往，不用告誡就心意相通。比喻輕鬆愉快的人際關係。",
+    "meaning_keywords": "真誠, 輕鬆, 溝通, 信任, 人際"
+  },
+  {
+    "hexagram": "泰卦",
+    "position": "六五",
+    "original_text": "帝乙歸妹，以祉元吉。",
+    "modern_translation": "帝乙嫁女兒（下嫁賢臣），帶來福祉，大吉大利。比喻尊貴者謙虛待人，帶來好運。",
+    "meaning_keywords": "謙虛, 聯姻, 福氣, 大吉, 柔順"
+  },
+  {
+    "hexagram": "泰卦",
+    "position": "上六",
+    "original_text": "城復于隍，勿用師。自邑告命，貞吝。",
+    "modern_translation": "城牆倒塌進護城河裡，不宜出兵。從城裡發布命令，如果還想堅持守住，會很遺憾。比喻大勢已去，不可強求。",
+    "meaning_keywords": "崩潰, 失敗, 停止, 衰退, 大勢已去"
+  },
+  {
+    "hexagram": "否卦",
+    "position": "初六",
+    "original_text": "拔茅茹，以其彙，貞吉亨。",
+    "modern_translation": "拔起茅草根系相連。在這個閉塞的時期，君子們選擇一起隱退，堅守正道則吉利。",
+    "meaning_keywords": "隱退, 團結, 避難, 守正, 低調"
+  },
+  {
+    "hexagram": "否卦",
+    "position": "六二",
+    "original_text": "包承，小人吉，大人否亨。",
+    "modern_translation": "包容阿諛奉承，這對小人吉利，但對君子來說是閉塞不通的。比喻小人當道，君子受氣。",
+    "meaning_keywords": "小人, 奉承, 閉塞, 委屈, 堅持原則"
+  },
+  {
+    "hexagram": "否卦",
+    "position": "六三",
+    "original_text": "包羞。",
+    "modern_translation": "包藏羞恥。指行為不當，雖然表面掩飾，但內心羞愧，或即將遭受羞辱。",
+    "meaning_keywords": "羞恥, 掩飾, 錯誤, 內疚, 尷尬"
+  },
+  {
+    "hexagram": "否卦",
+    "position": "九四",
+    "original_text": "有命無咎，疇離祉。",
+    "modern_translation": "奉行天命行動，沒有災禍，眾人依附而得到福祉。比喻運勢開始轉好，可以有所作為了。",
+    "meaning_keywords": "轉運, 天命, 行動, 福祉, 號召"
+  },
+  {
+    "hexagram": "否卦",
+    "position": "九五",
+    "original_text": "休否，大人吉。其亡其亡，繫于苞桑。",
+    "modern_translation": "閉塞的局勢停止了，大人吉利。但要時刻警惕「要滅亡了！要滅亡了！」，像綁在桑樹根上一樣牢固。比喻居安思危。",
+    "meaning_keywords": "轉機, 居安思危, 警惕, 穩固, 復甦"
+  },
+{
+    "hexagram": "否卦",
+    "position": "上九",
+    "original_text": "傾否，先否後喜。",
+    "modern_translation": "閉塞的局勢完全傾覆消除，先是閉塞，後來有喜慶。比喻否極泰來，壞運氣徹底結束。",
+    "meaning_keywords": "否極泰來, 逆轉, 喜慶, 結束, 新開始"
+  },
+  {
+    "hexagram": "同人卦",
+    "position": "初九",
+    "original_text": "同人于門，無咎。",
+    "modern_translation": "在門外與人結交，沒有災禍。比喻公開、無私地廣結善緣，不搞小圈圈。",
+    "meaning_keywords": "公開, 結交, 無私, 廣闊, 善緣"
+  },
+  {
+    "hexagram": "同人卦",
+    "position": "六二",
+    "original_text": "同人于宗，吝。",
+    "modern_translation": "只與同宗族的人結交，令人遺憾。比喻視野狹隘，只照顧自己人，格局太小。",
+    "meaning_keywords": "狹隘, 偏心, 小圈子, 遺憾, 侷限"
+  },
+  {
+    "hexagram": "同人卦",
+    "position": "九三",
+    "original_text": "伏戎于莽，升其高陵，三歲不興。",
+    "modern_translation": "把軍隊埋伏在草叢中，又爬上高地觀望，三年都不敢發動進攻。比喻心懷鬼胎，互相猜忌，導致長期一事無成。",
+    "meaning_keywords": "猜忌, 埋伏, 猶豫, 失敗, 敵意"
+  },
+  {
+    "hexagram": "同人卦",
+    "position": "九四",
+    "original_text": "乘其墉，弗克攻，吉。",
+    "modern_translation": "爬上了城牆，但覺得不義而沒有進攻，吉利。比喻及時懸崖勒馬，改正錯誤的對立念頭。",
+    "meaning_keywords": "懸崖勒馬, 反省, 停止, 改過, 吉利"
+  },
+  {
+    "hexagram": "同人卦",
+    "position": "九五",
+    "original_text": "同人，先號啕而後笑，大師克相遇。",
+    "modern_translation": "與人聚合，先是痛哭號叫，後來歡笑。大軍獲勝後終於相遇。比喻歷經艱辛磨難，最終排除萬難而團圓。",
+    "meaning_keywords": "團圓, 苦盡甘來, 艱辛, 勝利, 相聚"
+  },
+  {
+    "hexagram": "同人卦",
+    "position": "上九",
+    "original_text": "同人于郊，無悔。",
+    "modern_translation": "在荒郊野外與人聚合，沒有悔恨。比喻遠離爭端，雖然孤獨但志向高潔，無怨無悔。",
+    "meaning_keywords": "遠離, 超脫, 無悔, 志向, 冷靜"
+  },{
+    "hexagram": "大有卦",
+    "position": "初九",
+    "original_text": "無交害，匪咎，艱則無咎。",
+    "modern_translation": "不與有害的人事物交往，就沒有災禍。雖然處境還不夠強大，但只要艱苦謹慎，就沒有過失。",
+    "meaning_keywords": "遠離小人, 謹慎, 防範, 無咎, 起步"
+  },
+  {
+    "hexagram": "大有卦",
+    "position": "九二",
+    "original_text": "大車以載，有攸往，無咎。",
+    "modern_translation": "用大車裝載物資，有所前往，沒有災禍。比喻能力強大，責任重大，能夠承擔重任，順利推行。",
+    "meaning_keywords": "重任, 承擔, 能力, 順利, 物資"
+  },
+  {
+    "hexagram": "大有卦",
+    "position": "九三",
+    "original_text": "公用亨于天子，小人弗克。",
+    "modern_translation": "王公貴族向天子獻寶致敬，小人做不到（或小人會私藏）。比喻要有大格局，懂得分享利益與榮耀。",
+    "meaning_keywords": "格局, 分享, 獻祭, 榮耀, 慷慨"
+  },
+  {
+    "hexagram": "大有卦",
+    "position": "九四",
+    "original_text": "匪其彭，無咎。",
+    "modern_translation": "雖然極其盛大，但不炫耀自己的強大，沒有災禍。比喻位高權重時，懂得收斂鋒芒，避免招嫉。",
+    "meaning_keywords": "收斂, 不炫耀, 低調, 保身, 盛大"
+  },
+  {
+    "hexagram": "大有卦",
+    "position": "六五",
+    "original_text": "厥孚交如，威如，吉。",
+    "modern_translation": "以誠信與人交往，同時展現威嚴，吉利。比喻領導者恩威並施，讓下屬信服。",
+    "meaning_keywords": "誠信, 威嚴, 領導, 恩威並施, 吉利"
+  },
+  {
+    "hexagram": "大有卦",
+    "position": "上九",
+    "original_text": "自天祐之，吉無不利。",
+    "modern_translation": "來自上天的保佑，吉利，沒有什麼不利的。比喻順應天道與人心，獲得極大的成功。",
+    "meaning_keywords": "天助, 順應, 大吉, 成功, 圓滿"
+  },
+  {
+    "hexagram": "謙卦",
+    "position": "初六",
+    "original_text": "謙謙君子，用涉大川，吉。",
+    "modern_translation": "謙虛而又謙虛的君子，利於渡過大河（冒險），吉利。比喻低調務實，能克服艱難險阻。",
+    "meaning_keywords": "謙虛, 務實, 渡過難關, 低調, 吉利"
+  },
+  {
+    "hexagram": "謙卦",
+    "position": "六二",
+    "original_text": "鳴謙，貞吉。",
+    "modern_translation": "謙虛的名聲遠播，引起共鳴，堅持正道吉利。比喻名實相符的謙虛。",
+    "meaning_keywords": "名聲, 共鳴, 謙虛, 正道, 影響力"
+  },
+  {
+    "hexagram": "謙卦",
+    "position": "九三",
+    "original_text": "勞謙君子，有終，吉。",
+    "modern_translation": "有功勞而能謙虛的君子，會有好的結局，吉利。比喻勞苦功高但不居功。",
+    "meaning_keywords": "功勞, 不居功, 結局好, 勤勞, 吉利"
+  },
+  {
+    "hexagram": "謙卦",
+    "position": "六四",
+    "original_text": "無不利，撝謙。",
+    "modern_translation": "沒有什麼不利的，發揮謙虛的美德。比喻無論處於什麼位置，都保持謙讓。",
+    "meaning_keywords": "謙讓, 發揮, 順利, 美德, 平順"
+  },
+  {
+    "hexagram": "謙卦",
+    "position": "六五",
+    "original_text": "不富以其鄰，利用侵伐，無不利。",
+    "modern_translation": "不靠財富收買，而靠謙虛德行贏得鄰居支持，利於出兵征伐（糾正錯誤），沒有不利。比喻以德服人。",
+    "meaning_keywords": "以德服人, 支持, 號召, 糾正, 勝利"
+  },
+  {
+    "hexagram": "謙卦",
+    "position": "上六",
+    "original_text": "鳴謙，利用行師，征邑國。",
+    "modern_translation": "謙虛的名聲遠播，利於出兵征討屬地。即使是謙虛的人，遇到違法亂紀也要果斷處理，但僅限於內部整治。",
+    "meaning_keywords": "整治, 果斷, 內部管理, 名聲, 原則"
+  },
+  {
+    "hexagram": "豫卦",
+    "position": "初六",
+    "original_text": "鳴豫，凶。",
+    "modern_translation": "自鳴得意，沈溺於歡樂中，凶險。比喻才剛開始有點成績就得意忘形。",
+    "meaning_keywords": "得意忘形, 驕傲, 凶險, 浮誇, 沈溺"
+  },
+  {
+    "hexagram": "豫卦",
+    "position": "六二",
+    "original_text": "介于石，不終日，貞吉。",
+    "modern_translation": "意志像石頭一樣堅定，不沈溺於享樂，一旦發現苗頭不對立刻改變，吉利。比喻清醒、果斷。",
+    "meaning_keywords": "清醒, 堅定, 果斷, 不沈溺, 吉利"
+  },
+  {
+    "hexagram": "豫卦",
+    "position": "六三",
+    "original_text": "盱豫，悔。遲，有悔。",
+    "modern_translation": "仰視獻媚以求安樂，會後悔。如果遲疑不決，也會後悔。比喻依靠他人得來的快樂不長久。",
+    "meaning_keywords": "獻媚, 依賴, 後悔, 遲疑, 短暫"
+  },
+  {
+    "hexagram": "豫卦",
+    "position": "九四",
+    "original_text": "由豫，大有得。勿疑，朋盍簪。",
+    "modern_translation": "快樂的源頭，大有收穫。不要懷疑，朋友會像頭髮聚在簪子上依附你。比喻成為團體的中心人物，帶來歡樂。",
+    "meaning_keywords": "中心, 領袖, 歡樂, 聚會, 收穫"
+  },
+  {
+    "hexagram": "豫卦",
+    "position": "六五",
+    "original_text": "貞疾，恆不死。",
+    "modern_translation": "沈溺快樂而染上惡疾（或處境艱難），雖然長久不癒，但還不會死。比喻處於積重難返的狀態，茍延殘喘。",
+    "meaning_keywords": "疾病, 拖延, 停滯, 頑疾, 茍延殘喘"
+  },
+  {
+    "hexagram": "豫卦",
+    "position": "上六",
+    "original_text": "冥豫，成有渝，無咎。",
+    "modern_translation": "沈迷於快樂中昏了頭，如果能即使改變，就沒有災禍。比喻懸崖勒馬，浪子回頭。",
+    "meaning_keywords": "沈迷, 改變, 回頭, 昏頭, 補救"
+  },
+  {
+    "hexagram": "隨卦",
+    "position": "初九",
+    "original_text": "官有變，貞吉。出門交有功。",
+    "modern_translation": "官職發生變動（隨著時局改變），堅持正道吉利。出門與人廣泛交往會建立功業。比喻適應變化，拓展人脈。",
+    "meaning_keywords": "變動, 適應, 人脈, 轉職, 吉利"
+  },
+  {
+    "hexagram": "隨卦",
+    "position": "六二",
+    "original_text": "係小子，失丈夫。",
+    "modern_translation": "抓住了小孩，卻失去了壯漢。比喻因小失大，或是沈迷於眼前的小利，錯失了更有價值的人事物。",
+    "meaning_keywords": "因小失大, 選擇錯誤, 損失, 目光短淺, 遺憾"
+  },
+  {
+    "hexagram": "隨卦",
+    "position": "六三",
+    "original_text": "係丈夫，失小子。隨有求得，利居貞。",
+    "modern_translation": "抓住了壯漢，失去了小孩。跟隨強者有所求必有所得，利於安守正道。比喻做了正確的取捨，向上社交。",
+    "meaning_keywords": "取捨, 向上社交, 跟隨強者, 收穫, 正確"
+  },
+  {
+    "hexagram": "隨卦",
+    "position": "九四",
+    "original_text": "隨有獲，貞凶。有孚在道，以明，何咎。",
+    "modern_translation": "隨波逐流而獲得利益，雖正當也凶險（可能被視為貪腐）。如果在道義上保有誠信，光明磊落，就沒有災禍。",
+    "meaning_keywords": "隨波逐流, 利益, 避嫌, 誠信, 光明"
+  },
+  {
+    "hexagram": "隨卦",
+    "position": "九五",
+    "original_text": "孚于嘉，吉。",
+    "modern_translation": "把誠信寄託在美好的事物（或善人）上，吉利。比喻擇善固執，跟隨優秀的領導或理念。",
+    "meaning_keywords": "擇善, 美好, 誠信, 跟隨, 吉利"
+  },
+  {
+    "hexagram": "隨卦",
+    "position": "上六",
+    "original_text": "拘係之，乃從維之。王用亨于西山。",
+    "modern_translation": "被拘禁束縛，被迫跟隨。就像君王在西山祭祀一樣，雖然勉強，但終究是為了誠意。比喻到了盡頭，不得不退隱或改變。",
+    "meaning_keywords": "束縛, 被迫, 退隱, 盡頭, 誠意"
+  },
+  {
+    "hexagram": "蠱卦",
+    "position": "初六",
+    "original_text": "幹父之蠱，有子，考無咎，厲終吉。",
+    "modern_translation": "處理父親留下的弊端。因為有能幹的兒子，父親沒有過失。雖然艱難，但最終吉利。比喻接手爛攤子並成功改革。",
+    "meaning_keywords": "改革, 爛攤子, 繼承, 修正, 吉利"
+  },
+  {
+    "hexagram": "蠱卦",
+    "position": "九二",
+    "original_text": "幹母之蠱，不可貞。",
+    "modern_translation": "處理母親造成的弊端，不宜過於堅持正道（嚴厲）。比喻處理內部或感情相關的問題，要用柔和的方式。",
+    "meaning_keywords": "柔和, 寬容, 內部問題, 妥協, 弊端"
+  },
+  {
+    "hexagram": "蠱卦",
+    "position": "九三",
+    "original_text": "幹父之蠱，小有悔，無大咎。",
+    "modern_translation": "處理父親的弊端，雖然有點急躁而有小後悔，但沒有大過錯。比喻改革雖然有阻力，但方向是正確的。",
+    "meaning_keywords": "改革, 阻力, 小後悔, 正確方向, 堅持"
+  },
+  {
+    "hexagram": "蠱卦",
+    "position": "六四",
+    "original_text": "裕父之蠱，往見吝。",
+    "modern_translation": "寬容父親的弊端（不處理），長久下去會令人遺憾。比喻優柔寡斷，縱容問題惡化。",
+    "meaning_keywords": "縱容, 惡化, 優柔寡斷, 遺憾, 拖延"
+  },
+  {
+    "hexagram": "蠱卦",
+    "position": "六五",
+    "original_text": "幹父之蠱，用譽。",
+    "modern_translation": "處理弊端，獲得了讚譽。比喻改革成功，獲得大家的支持與稱讚。",
+    "meaning_keywords": "成功, 讚譽, 支持, 解決問題, 榮耀"
+  },
+  {
+    "hexagram": "蠱卦",
+    "position": "上九",
+    "original_text": "不事王侯，高尚其事。",
+    "modern_translation": "不侍奉王侯，致力於更高尚的事務。比喻功成身退，或不與世俗同流合污，追求精神層次。",
+    "meaning_keywords": "隱居, 高尚, 精神追求, 超脫, 獨立"
+  },
+  {
+    "hexagram": "臨卦",
+    "position": "初九",
+    "original_text": "咸臨，貞吉。",
+    "modern_translation": "感召式的親臨管理，堅持正道吉利。比喻以德服人，讓下屬心悅誠服。",
+    "meaning_keywords": "感召, 管理, 德行, 服眾, 吉利"
+  },
+  {
+    "hexagram": "臨卦",
+    "position": "九二",
+    "original_text": "咸臨，吉無不利。",
+    "modern_translation": "感召式的親臨，大吉大利。代表以身作則，恩威並施，受到廣泛支持。",
+    "meaning_keywords": "以身作則, 支持, 順利, 領導, 影響力"
+  },
+  {
+    "hexagram": "臨卦",
+    "position": "六三",
+    "original_text": "甘臨，無攸利。既憂之，無咎。",
+    "modern_translation": "用甜言蜜語來統治，沒有什麼好處。如果能察覺到這樣做的憂患並改過，就沒有災禍。",
+    "meaning_keywords": "甜言蜜語, 虛偽, 憂患, 改過, 錯誤管理"
+  },
+  {
+    "hexagram": "臨卦",
+    "position": "六四",
+    "original_text": "至臨，無咎。",
+    "modern_translation": "親自深入基層去了解，沒有過失。比喻禮賢下士，親力親為。",
+    "meaning_keywords": "親力親為, 基層, 務實, 禮賢下士, 溝通"
+  },
+  {
+    "hexagram": "臨卦",
+    "position": "六五",
+    "original_text": "知臨，大君之宜，吉。",
+    "modern_translation": "用智慧來統治，這是偉大君主的風範，吉利。比喻懂得任用賢才，不靠自己蠻幹。",
+    "meaning_keywords": "智慧, 授權, 用人, 領導風範, 吉利"
+  },
+  {
+    "hexagram": "臨卦",
+    "position": "上六",
+    "original_text": "敦臨，吉無咎。",
+    "modern_translation": "敦厚誠懇地親臨，吉利沒有災禍。比喻以誠待人，善始善終。",
+    "meaning_keywords": "敦厚, 誠懇, 善始善終, 圓滿, 溫和"
+  },
+  {
+    "hexagram": "觀卦",
+    "position": "初六",
+    "original_text": "童觀，小人無咎，君子吝。",
+    "modern_translation": "像兒童一樣幼稚地觀察。這對一般百姓無所謂，但對負有責任的君子來說是遺憾的。比喻見識淺薄。",
+    "meaning_keywords": "幼稚, 淺薄, 表面, 學習, 遺憾"
+  },{
+    "hexagram": "觀卦",
+    "position": "六二",
+    "original_text": "闚觀，利女貞。",
+    "modern_translation": "從門縫裡偷看。這對足不出戶的女子（古代觀點）有利，但對要處理大事的人來說格局太小。",
+    "meaning_keywords": "狹隘, 偷看, 格局小, 保守, 侷限"
+  },
+  {
+    "hexagram": "觀卦",
+    "position": "六三",
+    "original_text": "觀我生，進退。",
+    "modern_translation": "觀察自己的言行與處境，來決定是進還是退。比喻自我反省，審時度勢。",
+    "meaning_keywords": "反省, 進退, 審時度勢, 自知之明, 決策"
+  },
+  {
+    "hexagram": "觀卦",
+    "position": "六四",
+    "original_text": "觀國之光，利用賓于王。",
+    "modern_translation": "觀察國家的光輝典範（政績風俗）。利於成為君王的賓客。比喻眼界開闊，適合往高處發展。",
+    "meaning_keywords": "眼界, 典範, 高升, 賓客, 出國"
+  },
+  {
+    "hexagram": "觀卦",
+    "position": "九五",
+    "original_text": "觀我生，君子無咎。",
+    "modern_translation": "觀察自己的施政與德行對百姓的影響，君子自我檢討就沒有災禍。比喻身居高位者的自我省察。",
+    "meaning_keywords": "檢討, 影響力, 榜樣, 負責, 反觀"
+  },
+  {
+    "hexagram": "觀卦",
+    "position": "上九",
+    "original_text": "觀其生，君子無咎。",
+    "modern_translation": "觀察眾人的生活（或被眾人所瞻仰），君子若能不僅獨善其身，還能兼善天下，就沒有災禍。",
+    "meaning_keywords": "瞻仰, 兼善天下, 超脫, 聲望, 總結"
+  },
+  {
+    "hexagram": "噬嗑卦",
+    "position": "初九",
+    "original_text": "屨校滅趾，無咎。",
+    "modern_translation": "腳戴枷鎖，蓋住了腳趾。雖然受了小懲罰，但因此不敢再犯，所以沒有大災禍。比喻小懲大誡。",
+    "meaning_keywords": "懲罰, 警告, 改過, 輕微, 教訓"
+  },
+  {
+    "hexagram": "噬嗑卦",
+    "position": "六二",
+    "original_text": "噬膚滅鼻，無咎。",
+    "modern_translation": "咬肥軟的肉，結果蓋住了鼻子（比喻事情容易解決但稍微過頭）。執法順利，沒有災禍。",
+    "meaning_keywords": "順利, 容易, 執法, 解決, 果斷"
+  },
+  {
+    "hexagram": "噬嗑卦",
+    "position": "六三",
+    "original_text": "噬臘肉，遇毒。小吝，無咎。",
+    "modern_translation": "咬乾硬的臘肉，卻咬到陳年老毒。比喻遇到難搞的陳年舊案或障礙，雖然有點倒楣，但最終能解決。",
+    "meaning_keywords": "障礙, 舊帳, 中毒, 困難, 堅持"
+  },
+  {
+    "hexagram": "噬嗑卦",
+    "position": "九四",
+    "original_text": "噬乾胏，得金矢。利艱貞，吉。",
+    "modern_translation": "咬帶骨頭的乾肉，發現了金屬箭頭（比喻困難像金屬一樣硬）。要像金矢一樣剛直，艱苦堅持正道則吉。",
+    "meaning_keywords": "艱鉅, 剛直, 挑戰, 堅持, 突破"
+  },
+  {
+    "hexagram": "噬嗑卦",
+    "position": "六五",
+    "original_text": "噬乾肉，得黃金。貞厲，無咎。",
+    "modern_translation": "咬乾肉，得到了黃金。比喻處理問題雖然艱難，但收穫豐厚。雖然有危險，但最終無災。",
+    "meaning_keywords": "收穫, 價值, 艱難, 解決, 財富"
+  },
+  {
+    "hexagram": "噬嗑卦",
+    "position": "上九",
+    "original_text": "何校滅耳，凶。",
+    "modern_translation": "脖子戴上厚重的枷鎖，蓋住了耳朵（聽不進勸告）。比喻罪惡深重，屢教不改，凶險。",
+    "meaning_keywords": "固執, 罪惡, 懲罰, 凶險, 毀滅"
+  },
+  {
+    "hexagram": "賁卦",
+    "position": "初九",
+    "original_text": "賁其趾，捨車而徒。",
+    "modern_translation": "修飾腳趾（注重細節），捨棄車子不坐而徒步。比喻為了堅持志向，寧願樸素也不願隨波逐流。",
+    "meaning_keywords": "樸素, 志向, 腳踏實地, 捨棄, 獨立"
+  },
+  {
+    "hexagram": "賁卦",
+    "position": "六二",
+    "original_text": "賁其須。",
+    "modern_translation": "修飾鬍鬚。鬍鬚是隨下巴移動的，比喻自己沒有主見，依附他人來裝飾自己。",
+    "meaning_keywords": "依附, 裝飾, 隨波逐流, 輔助, 配角"
+  },
+  {
+    "hexagram": "賁卦",
+    "position": "九三",
+    "original_text": "賁如濡如，永貞吉。",
+    "modern_translation": "裝飾得光鮮亮麗，甚至有些過度潤澤。如果不沈迷於此，能長久堅守正道，吉利。",
+    "meaning_keywords": "光鮮, 亮麗, 節制, 魅力, 社交"
+  },
+  {
+    "hexagram": "賁卦",
+    "position": "六四",
+    "original_text": "賁如皤如，白馬翰翰。匪寇婚媾。",
+    "modern_translation": "裝飾素雅（如白色），騎著白馬疾馳。這不是強盜，是來求婚的。比喻返璞歸真，喜事臨門。",
+    "meaning_keywords": "素雅, 返璞歸真, 喜事, 求婚, 清白"
+  },
+  {
+    "hexagram": "賁卦",
+    "position": "六五",
+    "original_text": "賁于丘園，束帛戔戔。吝，終吉。",
+    "modern_translation": "裝飾家鄉的庭園，只用微薄的絲帛當禮物。雖然顯得吝嗇寒酸，但心意真誠，最終吉利。",
+    "meaning_keywords": "節儉, 務實, 真誠, 簡單, 吉利"
+  },
+  {
+    "hexagram": "賁卦",
+    "position": "上九",
+    "original_text": "白賁，無咎。",
+    "modern_translation": "白色的裝飾。代表裝飾的最高境界是自然樸素，沒有多餘的花樣，沒有災禍。",
+    "meaning_keywords": "自然, 極簡, 最高境界, 無咎, 純粹"
+  },
+  {
+    "hexagram": "剝卦",
+    "position": "初六",
+    "original_text": "剝床以足，蔑貞凶。",
+    "modern_translation": "床腳開始剝落腐壞。比喻危機是從基礎（或底層）開始被破壞的，如果不正視，會有凶險。",
+    "meaning_keywords": "基礎, 腐壞, 危機, 凶險, 底層"
+  },
+  {
+    "hexagram": "剝卦",
+    "position": "六二",
+    "original_text": "剝床以辨，蔑貞凶。",
+    "modern_translation": "床身（床架）開始剝落。危機向上蔓延，局勢惡化，堅持正道也難以挽回，凶險。",
+    "meaning_keywords": "惡化, 蔓延, 無法挽回, 凶險, 崩潰"
+  },
+  {
+    "hexagram": "剝卦",
+    "position": "六三",
+    "original_text": "剝之，無咎。",
+    "modern_translation": "在眾人都剝落腐壞時，獨自保持清醒（與君子相應）。雖然大環境不好，但自己沒有過失。",
+    "meaning_keywords": "獨善其身, 清醒, 堅持, 無咎, 眾人皆醉"
+  },
+  {
+    "hexagram": "剝卦",
+    "position": "六四",
+    "original_text": "剝床以膚，凶。",
+    "modern_translation": "災害已經逼近身體肌膚。比喻危機迫在眉睫，切身利益受到損害，非常凶險。",
+    "meaning_keywords": "迫在眉睫, 切身利益, 災害, 凶險, 痛苦"
+  },
+  {
+    "hexagram": "剝卦",
+    "position": "六五",
+    "original_text": "貫魚，以宮人寵，無不利。",
+    "modern_translation": "像魚串一樣依序排列，受君王寵愛。比喻率領眾人歸順正道（或強者），化解對立，沒有不利。",
+    "meaning_keywords": "歸順, 秩序, 寵愛, 化解, 團體"
+  },
+  {
+    "hexagram": "剝卦",
+    "position": "上九",
+    "original_text": "碩果不食，君子得輿，小人剝廬。",
+    "modern_translation": "僅存的一顆大果實沒有被吃掉（留下了種子）。君子因此得到擁戴，小人則會因失去庇護而毀了自己的家。",
+    "meaning_keywords": "希望, 碩果僅存, 種子, 轉機, 因果"
+  },
+  {
+    "hexagram": "復卦",
+    "position": "初九",
+    "original_text": "不遠復，無祇悔，元吉。",
+    "modern_translation": "才剛走錯路不遠就立刻回頭，不會有大後悔，大吉大利。比喻知錯能改，反應迅速。",
+    "meaning_keywords": "回頭, 知錯能改, 迅速, 大吉, 修正"
+  },
+  {
+    "hexagram": "復卦",
+    "position": "六二",
+    "original_text": "休復，吉。",
+    "modern_translation": "美好的回歸。看到別人改正，自己也樂於跟隨改正，吉利。",
+    "meaning_keywords": "跟隨, 改正, 美好, 吉利, 從善如流"
+  },
+  {
+    "hexagram": "復卦",
+    "position": "六三",
+    "original_text": "頻復，厲無咎。",
+    "modern_translation": "眉頭深鎖地反覆回來（或屢錯屢改）。雖然處境危險，但因為知道要回頭，所以沒有大災禍。",
+    "meaning_keywords": "反覆, 掙扎, 危險, 回頭, 改過"
+  },
+  {
+    "hexagram": "復卦",
+    "position": "六四",
+    "original_text": "中行獨復。",
+    "modern_translation": "身處群體中，獨自選擇走回正道。比喻不隨波逐流，堅持正確的方向。",
+    "meaning_keywords": "獨立, 堅持, 正道, 不隨波逐流, 清醒"
+  },
+  {
+    "hexagram": "復卦",
+    "position": "六五",
+    "original_text": "敦復，無悔。",
+    "modern_translation": "敦厚誠懇地自我反省與回歸，沒有悔恨。比喻徹底的改過自新。",
+    "meaning_keywords": "誠懇, 反省, 無悔, 徹底, 自新"
+  },
+  {
+    "hexagram": "復卦",
+    "position": "上六",
+    "original_text": "迷復，凶，有災眚。用行師，終大敗。",
+    "modern_translation": "迷失了方向才想要回頭，凶險，會有災禍。這時候如果強行運作（如出兵），最後會大敗，甚至十年都無法恢復。",
+    "meaning_keywords": "迷失, 太晚, 慘敗, 災禍, 執迷不悟"
+  },
+  {
+    "hexagram": "無妄卦",
+    "position": "初九",
+    "original_text": "無妄，往吉。",
+    "modern_translation": "不虛偽、不妄為，順著天性行動，吉利。比喻保持初心，不做非分之想。",
+    "meaning_keywords": "初心, 真誠, 自然, 吉利, 正當"
+  },
+  {
+    "hexagram": "無妄卦",
+    "position": "六二",
+    "original_text": "不耕穫，不菑佘，則利有攸往。",
+    "modern_translation": "不為了收穫而耕作，不為了開墾而除草（只問耕耘不問收穫）。這種純粹的心態利於前行。",
+    "meaning_keywords": "純粹, 不求回報, 過程, 順利, 努力"
+  },
+  {
+    "hexagram": "無妄卦",
+    "position": "六三",
+    "original_text": "無妄之災。或繫之牛，行人之得，邑人之災。",
+    "modern_translation": "意想不到的災禍。就像有人把牛拴在路邊，過路人順手牽走了（得利），村裡的人卻被誤會偷牛（遭殃）。",
+    "meaning_keywords": "意外, 倒楣, 誤會, 無辜, 損失"
+  },
+  {
+    "hexagram": "無妄卦",
+    "position": "九四",
+    "original_text": "可貞，無咎。",
+    "modern_translation": "可以堅守正道，沒有災禍。比喻在混亂或意外中，守住自己的本分就能保平安。",
+    "meaning_keywords": "守本分, 平安, 堅持, 正道, 穩定"
+  },
+  {
+    "hexagram": "無妄卦",
+    "position": "九五",
+    "original_text": "無妄之疾，勿藥有喜。",
+    "modern_translation": "意想不到的疾病（或問題），不需要吃藥自然會好。比喻問題是暫時的，順其自然就會解決。",
+    "meaning_keywords": "自然痊癒, 暫時, 不需要干預, 喜事, 順其自然"
+  },
+  {
+    "hexagram": "無妄卦",
+    "position": "上九",
+    "original_text": "無妄，行有眚，無攸利。",
+    "modern_translation": "即使沒有妄念，如果現在行動也會有災禍，沒有好處。比喻時機不對，動輒得咎，不如不動。",
+    "meaning_keywords": "時機不對, 停止, 災禍, 不動, 風險"
+  },
+  {
+    "hexagram": "大畜卦",
+    "position": "初九",
+    "original_text": "有厲，利已。",
+    "modern_translation": "有危險，利於停止行動。比喻時機未到，應該先累積實力，不要貿然出擊。",
+    "meaning_keywords": "停止, 危險, 累積, 等待, 自制"
+  },
+  {
+    "hexagram": "大畜卦",
+    "position": "九二",
+    "original_text": "輿說輻。",
+    "modern_translation": "車輪輻條脫落（主動拆卸）。比喻主動停止行動，積蓄力量，等待時機。",
+    "meaning_keywords": "主動停止, 積蓄, 暫停, 準備, 策略"
+  },
+  {
+    "hexagram": "大畜卦",
+    "position": "九三",
+    "original_text": "良馬逐，利艱貞。日閑輿衛，利有攸往。",
+    "modern_translation": "駕著良馬奔馳，利於在艱難中堅守正道。每天訓練車馬衛隊，利於前往。比喻實力已足，準備充分，可以行動。",
+    "meaning_keywords": "行動, 實力, 訓練, 競爭, 順利"
+  },
+  {
+    "hexagram": "大畜卦",
+    "position": "六四",
+    "original_text": "童牛之牿，元吉。",
+    "modern_translation": "在小牛角還沒長成時就加上橫木（防範其頂人），大吉大利。比喻在問題發生前就做好防範與教育。",
+    "meaning_keywords": "預防, 教育, 早期干預, 大吉, 規範"
+  },
+  {
+    "hexagram": "大畜卦",
+    "position": "六五",
+    "original_text": "豶豕之牙，吉。",
+    "modern_translation": "閹割野豬（消除其野性），使其牙齒失去威脅，吉利。比喻用釜底抽薪的方法從根本解決問題。",
+    "meaning_keywords": "根本解決, 馴服, 手段, 吉利, 控制"
+  },
+  {
+    "hexagram": "大畜卦",
+    "position": "上九",
+    "original_text": "何天之衢，亨。",
+    "modern_translation": "就像走在四通八達的天街大道上，亨通順利。比喻累積到了極點，終於大展宏圖，暢行無阻。",
+    "meaning_keywords": "大成功, 亨通, 天道, 暢行無阻, 高峰"
+  },
+  {
+    "hexagram": "頤卦",
+    "position": "初九",
+    "original_text": "捨爾靈龜，觀我朵頤，凶。",
+    "modern_translation": "捨棄自己原本像靈龜一樣不用吃喝的神奇本領，卻羨慕地看著別人大快朵頤，凶險。比喻放棄自己的長處，羨慕別人。",
+    "meaning_keywords": "羨慕, 失去自我, 貪吃, 凶險, 捨本逐末"
+  },
+  {
+    "hexagram": "頤卦",
+    "position": "六二",
+    "original_text": "顛頤，拂經，于丘頤，征凶。",
+    "modern_translation": "為了求食而顛倒常規（向下屬或不該求的人乞求），違背常理。向高處求養也行不通，前往凶險。",
+    "meaning_keywords": "違背常理, 乞求, 顛倒, 凶險, 依賴"
+  },
+  {
+    "hexagram": "頤卦",
+    "position": "六三",
+    "original_text": "拂頤，貞凶，十年勿用，無攸利。",
+    "modern_translation": "違背養育的正道，堅持下去會凶險，十年都無法恢復，沒有任何好處。比喻生活習慣或修養方向完全錯誤。",
+    "meaning_keywords": "錯誤方向, 凶險, 長期停滯, 無利, 違背"
+  },
+  {
+    "hexagram": "頤卦",
+    "position": "六四",
+    "original_text": "顛頤，吉。虎視眈眈，其欲逐逐，無咎。",
+    "modern_translation": "顛倒過來養育（上對下），吉利。像老虎一樣專注地注視，慾望雖然強烈但為了養育眾人，沒有過失。",
+    "meaning_keywords": "專注, 慾望, 養育眾人, 吉利, 強烈"
+  },
+  {
+    "hexagram": "頤卦",
+    "position": "六五",
+    "original_text": "拂經，居貞吉，不可涉大川。",
+    "modern_translation": "雖然稍微違背常理（依賴上九），但居於正位吉利。但不適合冒險渡大河（做大事）。比喻能力不足，宜守成。",
+    "meaning_keywords": "守成, 依賴, 平安, 不宜冒險, 順從"
+  },
+  {
+    "hexagram": "頤卦",
+    "position": "上九",
+    "original_text": "由頤，厲吉，利涉大川。",
+    "modern_translation": "眾人都依靠他來養育，雖然責任重大且危險，但吉利。利於冒險做大事。比喻擔負重任的領袖。",
+    "meaning_keywords": "重任, 領袖, 冒險, 吉利, 養育天下"
+  },
+  {
+    "hexagram": "大過卦",
+    "position": "初六",
+    "original_text": "藉用白茅，無咎。",
+    "modern_translation": "用潔白的茅草墊在器物下面（非常慎重），沒有過失。比喻在非常時期，做事要極度小心謹慎。",
+    "meaning_keywords": "謹慎, 慎重, 基礎, 無咎, 細心"
+  },
+  {
+    "hexagram": "大過卦",
+    "position": "九二",
+    "original_text": "枯楊生稊，老夫得其女妻，無不利。",
+    "modern_translation": "枯萎的楊樹長出新芽，老先生娶了年輕妻子。雖然有些反常，但生機重現，沒有不利。比喻枯木逢春。",
+    "meaning_keywords": "重生, 轉機, 老少配, 生機, 復甦"
+  },
+  {
+    "hexagram": "大過卦",
+    "position": "九三",
+    "original_text": "棟橈，凶。",
+    "modern_translation": "房屋的棟樑受壓彎曲，凶險。比喻壓力超過了負荷，基礎不穩，面臨崩潰。",
+    "meaning_keywords": "崩潰, 壓力過大, 支撐不住, 凶險, 脆弱"
+  },
+  {
+    "hexagram": "大過卦",
+    "position": "九四",
+    "original_text": "棟隆，吉。有它吝。",
+    "modern_translation": "棟樑隆起（堅固），吉利。但如果有其他雜念或意外，會令人遺憾。比喻有能力承擔重任，但要專一。",
+    "meaning_keywords": "堅固, 承擔, 重任, 吉利, 專注"
+  },
+  {
+    "hexagram": "大過卦",
+    "position": "九五",
+    "original_text": "枯楊生華，老婦得其士夫，無咎無譽。",
+    "modern_translation": "枯萎的楊樹開了花（卻不長葉，消耗最後養分），老婦人嫁給壯男。雖然沒有過失，但也得不到讚譽。比喻迴光返照，不可長久。",
+    "meaning_keywords": "迴光返照, 短暫, 虛華, 勉強, 不長久"
+  },
+  {
+    "hexagram": "大過卦",
+    "position": "上六",
+    "original_text": "過涉滅頂，凶，無咎。",
+    "modern_translation": "涉水過河水深滅頂，凶險。但這是為了大義而犧牲（或不得不為），所以在道義上沒有過失。",
+    "meaning_keywords": "犧牲, 滅頂, 凶險, 勇氣, 殺身成仁"
+  },
+  {
+    "hexagram": "坎卦",
+    "position": "初六",
+    "original_text": "習坎，入于坎窞，凶。",
+    "modern_translation": "重重險陷，掉進洞穴深處，凶險。比喻處境極度困難，越陷越深。",
+    "meaning_keywords": "深淵, 困境, 凶險, 陷落, 低潮"
+  },
+  {
+    "hexagram": "坎卦",
+    "position": "九二",
+    "original_text": "坎有險，求小得。",
+    "modern_translation": "雖然處在險境中，但只要不貪求大，努力尋求小收穫，還是能得到的。比喻在低谷中積少成多。",
+    "meaning_keywords": "小收穫, 險境, 務實, 生存, 嘗試"
+  },
+  {
+    "hexagram": "坎卦",
+    "position": "六三",
+    "original_text": "來之坎坎，險且枕，入于坎窞，勿用。",
+    "modern_translation": "進退都是險阻，枕著險難而臥，陷得很深。這時候不宜有任何舉動。比喻徹底躺平，等待時機。",
+    "meaning_keywords": "進退兩難, 躺平, 不動, 極度危險, 等待"
+  },
+  {
+    "hexagram": "坎卦",
+    "position": "六四",
+    "original_text": "樽酒簋貳，用缶，納約自牖，終無咎。",
+    "modern_translation": "用瓦罐裝酒食，從窗戶遞進去（簡約不拘禮節）。在困境中只要誠心交往，最終沒有災禍。",
+    "meaning_keywords": "簡約, 誠心, 變通, 溝通, 脫困"
+  },
+  {
+    "hexagram": "坎卦",
+    "position": "九五",
+    "original_text": "坎不盈，祇既平，無咎。",
+    "modern_translation": "水還沒流滿坑洞，雖然還沒完全脫險，但水位已經平穩。沒有災禍。比喻危機稍微緩解，但仍需努力。",
+    "meaning_keywords": "緩解, 平穩, 未滿, 努力, 過渡期"
+  },
+  {
+    "hexagram": "坎卦",
+    "position": "上六",
+    "original_text": "係用徽纆，寘于叢棘，三歲不得，凶。",
+    "modern_translation": "被繩索綑綁，丟在荊棘叢中，三年都無法脫身，凶險。比喻因錯誤行為導致牢獄之災或長期困頓。",
+    "meaning_keywords": "綑綁, 困頓, 牢獄, 凶險, 絕望"
+  },
+  {
+    "hexagram": "離卦",
+    "position": "初九",
+    "original_text": "履錯然，敬之，無咎。",
+    "modern_translation": "腳步錯亂（因急於行動），如果能保持敬慎之心，就沒有災禍。比喻剛開始雖然混亂，但態度謹慎就好。",
+    "meaning_keywords": "謹慎, 混亂, 態度, 起步, 無咎"
+  },
+  {
+    "hexagram": "離卦",
+    "position": "六二",
+    "original_text": "黃離，元吉。",
+    "modern_translation": "黃色的火光（象徵中正柔順）。堅守中道，大吉大利。比喻具備中庸的美德，最為吉祥。",
+    "meaning_keywords": "中庸, 柔順, 大吉, 光明, 美德"
+  },
+  {
+    "hexagram": "離卦",
+    "position": "九三",
+    "original_text": "日昃之離，不鼓缶而歌，則大耋之嗟，凶。",
+    "modern_translation": "夕陽西下。這時候如果不能敲著瓦盆唱歌（享受當下），就會感嘆年老將至，凶險。比喻要樂天知命。",
+    "meaning_keywords": "夕陽, 晚年, 樂觀, 無常, 享受當下"
+  },
+  {
+    "hexagram": "離卦",
+    "position": "九四",
+    "original_text": "突如其來如，焚如，死如，棄如。",
+    "modern_translation": "火勢突然衝來，烈火焚燒，令人死傷，被遺棄。比喻氣焰太盛，爆發快滅亡也快，下場淒涼。",
+    "meaning_keywords": "暴躁, 毀滅, 短暫, 突發, 淒涼"
+  },
+  {
+    "hexagram": "離卦",
+    "position": "六五",
+    "original_text": "出涕沱若，戚嗟若，吉。",
+    "modern_translation": "淚流滿面，憂傷嘆息。因為有憂患意識，能及時覺悟，所以吉利。比喻居安思危，化悲憤為力量。",
+    "meaning_keywords": "憂患意識, 覺悟, 反省, 吉利, 轉化"
+  },
+  {
+    "hexagram": "離卦",
+    "position": "上九",
+    "original_text": "王用出征，有嘉折首，獲匪其醜，無咎。",
+    "modern_translation": "君王出征，將首惡斬首，不追究脅從的小囉囉，沒有過失。比喻處理事情抓重點，除惡務盡但寬容。",
+    "meaning_keywords": "抓重點, 寬容, 決策, 勝利, 首領"
+  },
+  {
+    "hexagram": "咸卦",
+    "position": "初六",
+    "original_text": "咸其拇。",
+    "modern_translation": "感應發生在腳的大拇指。比喻事情剛開始，心意剛動，但還沒有實際行動，影響力很小。",
+    "meaning_keywords": "初動, 意念, 嘗試, 微小, 開始"
+  },
+  {
+    "hexagram": "咸卦",
+    "position": "六二",
+    "original_text": "咸其腓，凶，居吉。",
+    "modern_translation": "感應發生在小腿肚（急於行動）。如果盲目跟隨別人行動會凶險，安守不動則吉利。",
+    "meaning_keywords": "盲從, 衝動, 安守, 凶險, 等待"
+  },
+  {
+    "hexagram": "咸卦",
+    "position": "九三",
+    "original_text": "咸其股，執其隨，往吝。",
+    "modern_translation": "感應發生在大腿，只是跟隨腳步移動。比喻沒有主見，盲目隨波逐流，這樣做會令人遺憾。",
+    "meaning_keywords": "沒主見, 隨波逐流, 盲目, 遺憾, 依附"
+  },
+  {
+    "hexagram": "咸卦",
+    "position": "九四",
+    "original_text": "貞吉，悔亡。憧憧往來，朋從爾思。",
+    "modern_translation": "堅守正道吉利，悔恨消失。如果心意不定，來來回回，那只有你的朋友會聽從你，無法影響大眾。",
+    "meaning_keywords": "猶豫, 心意不定, 朋友, 影響力, 正道"
+  },
+  {
+    "hexagram": "咸卦",
+    "position": "九五",
+    "original_text": "咸其脢，無悔。",
+    "modern_translation": "感應發生在背脊肉（最不敏感的地方）。比喻雖然冷靜、反應遲鈍，但也因此不會有悔恨。",
+    "meaning_keywords": "冷靜, 遲鈍, 無悔, 保護, 隔絕"
+  },
+  {
+    "hexagram": "咸卦",
+    "position": "上六",
+    "original_text": "咸其輔頰舌。",
+    "modern_translation": "感應發生在臉頰和舌頭。比喻只會耍嘴皮子，光說不練，沒有實際誠意。",
+    "meaning_keywords": "口惠實不至, 嘴砲, 虛偽, 表面, 言語"
+  },
+  {
+    "hexagram": "恆卦",
+    "position": "初六",
+    "original_text": "浚恆，貞凶，無攸利。",
+    "modern_translation": "一開始就追求深遠長久（挖得太深）。比喻求成心切，雖堅持正道也凶險，沒有好處。",
+    "meaning_keywords": "急躁, 求成心切, 壓力, 凶險, 過度"
+  },
+  {
+    "hexagram": "恆卦",
+    "position": "九二",
+    "original_text": "悔亡。",
+    "modern_translation": "悔恨消失。比喻雖然有些過失，但因為能堅持中庸之道，所以結果還不錯。",
+    "meaning_keywords": "無悔, 中庸, 堅持, 平穩, 修正"
+  },
+  {
+    "hexagram": "恆卦",
+    "position": "九三",
+    "original_text": "不恆其德，或承之羞，貞吝。",
+    "modern_translation": "不能長久保持德行，反覆無常，會招致羞辱。即使這時候想堅守正道，也令人遺憾。",
+    "meaning_keywords": "反覆無常, 羞辱, 沒定性, 遺憾, 失敗"
+  },
+  {
+    "hexagram": "恆卦",
+    "position": "九四",
+    "original_text": "田無禽。",
+    "modern_translation": "田獵沒有抓到禽獸。比喻位置不當，努力了很久卻沒有收穫，徒勞無功。",
+    "meaning_keywords": "徒勞無功, 沒收穫, 空忙, 位置不對, 失望"
+  },
+  {
+    "hexagram": "恆卦",
+    "position": "六五",
+    "original_text": "恆其德，貞，婦人吉，夫子凶。",
+    "modern_translation": "長久保持順從的德行。這對婦女（傳統上主內）是吉利的，但對男子（主外需變通）來說則凶險。",
+    "meaning_keywords": "順從, 守舊, 僵化, 角色, 吉凶互見"
+  },
+  {
+    "hexagram": "恆卦",
+    "position": "上六",
+    "original_text": "振恆，凶。",
+    "modern_translation": "震動不停，定不下來。比喻動盪不安，無法持久，凶險。",
+    "meaning_keywords": "動盪, 不安, 躁動, 凶險, 失敗"
+  },
+  {
+    "hexagram": "遯卦",
+    "position": "初六",
+    "original_text": "遯尾，厲，勿用有攸往。",
+    "modern_translation": "逃跑落在最後面（尾巴），危險。這時候不宜有所前往，應該盡快隱藏。",
+    "meaning_keywords": "落後, 危險, 隱藏, 逃跑, 不宜行動"
+  },
+  {
+    "hexagram": "遯卦",
+    "position": "六二",
+    "original_text": "執之用黃牛之革，莫之勝說。",
+    "modern_translation": "用黃牛皮繩緊緊綁住。比喻意志堅定，想要退隱（或固守）的決心沒人能改變。",
+    "meaning_keywords": "堅定, 固守, 意志, 綁住, 決心"
+  },
+  {
+    "hexagram": "遯卦",
+    "position": "九三",
+    "original_text": "係遯，有疾厲，畜臣妾吉。",
+    "modern_translation": "被系絆住而無法退避，像生了病一樣危險。這時候只能處理家務瑣事（畜臣妾），做大事吉利。",
+    "meaning_keywords": "牽掛, 被困, 瑣事, 危險, 無法脫身"
+  },
+  {
+    "hexagram": "遯卦",
+    "position": "九四",
+    "original_text": "好遯，君子吉，小人否。",
+    "modern_translation": "因為有所愛好而退隱（或是優雅地退場），君子吉利，小人做不到（小人貪戀名利）。",
+    "meaning_keywords": "優雅, 退場, 放下, 豁達, 吉利"
+  },
+  {
+    "hexagram": "遯卦",
+    "position": "九五",
+    "original_text": "嘉遯，貞吉。",
+    "modern_translation": "完美地退避（功成身退），受到讚許，堅持正道吉利。比喻退得恰到好處。",
+    "meaning_keywords": "完美, 讚許, 功成身退, 時機, 吉利"
+  },
+  {
+    "hexagram": "遯卦",
+    "position": "上九",
+    "original_text": "肥遯，無不利。",
+    "modern_translation": "遠走高飛，毫無牽掛，優游自在，沒有什麼不利的。比喻完全超脫，自由自在。",
+    "meaning_keywords": "超脫, 自由, 遠走高飛, 快樂, 無牽掛"
+  },
+  {
+    "hexagram": "大壯卦",
+    "position": "初九",
+    "original_text": "壯于趾，征凶，有孚。",
+    "modern_translation": "力量只在腳趾上（根基未穩就想衝），前往必有凶險。這道理是確信無疑的。",
+    "meaning_keywords": "衝動, 根基未穩, 凶險, 魯莽, 停止"
+  },
+  {
+    "hexagram": "大壯卦",
+    "position": "九二",
+    "original_text": "貞吉。",
+    "modern_translation": "堅守正道，吉利。比喻力量強大但能守中庸，不隨意亂用。",
+    "meaning_keywords": "中庸, 吉利, 守正, 穩重, 力量"
+  },
+  {
+    "hexagram": "大壯卦",
+    "position": "九三",
+    "original_text": "小人榮，君子用罔。貞厲。羝羊觸藩，羸其角。",
+    "modern_translation": "小人恃強凌人以為榮耀，君子則認為這是網羅陷阱。堅持這樣做有危險。就像公羊用頭去撞籬笆，卡住了角。",
+    "meaning_keywords": "恃強凌弱, 陷阱, 卡住, 蠻力, 進退不得"
+  },
+  {
+    "hexagram": "大壯卦",
+    "position": "九四",
+    "original_text": "貞吉，悔亡。藩決不羸，壯于大輿之輹。",
+    "modern_translation": "堅持正道吉利，悔恨消失。籬笆被撞開了，沒有被卡住，車輪非常堅固。比喻衝破障礙，力量強大。",
+    "meaning_keywords": "突破, 障礙消除, 強大, 吉利, 前進"
+  },
+  {
+    "hexagram": "大壯卦",
+    "position": "六五",
+    "original_text": "喪羊于易，無悔。",
+    "modern_translation": "在平易之地把羊弄丟了（或放下身段，不再像公羊一樣愛撞人），沒有悔恨。比喻放棄蠻力，變得柔和。",
+    "meaning_keywords": "放棄蠻力, 柔和, 轉變, 無悔, 智慧"
+  },
+  {
+    "hexagram": "大壯卦",
+    "position": "上六",
+    "original_text": "羝羊觸藩，不能退，不能遂，無攸利，艱則吉。",
+    "modern_translation": "公羊撞籬笆，角卡住了，退不出來，也進不去。沒有任何好處。這時若能知難而退，艱苦反省，才是吉利。",
+    "meaning_keywords": "進退兩難, 卡住, 僵局, 反省, 困境"
+  },
+  {
+    "hexagram": "晉卦",
+    "position": "初六",
+    "original_text": "晉如摧如，貞吉。罔孚，裕無咎。",
+    "modern_translation": "想要晉升卻受到挫折排擠，堅守正道吉利。雖然暫時不被信任，但只要寬大為懷，就沒有災禍。",
+    "meaning_keywords": "挫折, 排擠, 寬容, 等待, 吉利"
+  },
+  {
+    "hexagram": "晉卦",
+    "position": "六二",
+    "original_text": "晉如愁如，貞吉。受茲介福，于其王母。",
+    "modern_translation": "晉升之路充滿愁苦，但堅守正道吉利。最終會因為中正的德行，獲得太后（或女性貴人）的巨大福佑。",
+    "meaning_keywords": "愁苦, 貴人, 轉機, 福氣, 堅持"
+  },
+  {
+    "hexagram": "晉卦",
+    "position": "六三",
+    "original_text": "眾允，悔亡。",
+    "modern_translation": "獲得眾人的信任與允許，悔恨消失。比喻升遷獲得民意支持，順理成章。",
+    "meaning_keywords": "眾望所歸, 支持, 順利, 升遷, 信任"
+  },
+  {
+    "hexagram": "晉卦",
+    "position": "九四",
+    "original_text": "晉如鼫鼠，貞厲。",
+    "modern_translation": "像大老鼠一樣貪婪地晉升（德不配位），堅持下去會有危險。比喻靠不正當手段上位，位置不穩。",
+    "meaning_keywords": "貪婪, 德不配位, 危險, 投機, 小人"
+  },
+  {
+    "hexagram": "晉卦",
+    "position": "六五",
+    "original_text": "悔亡，失得勿恤，往吉，無不利。",
+    "modern_translation": "悔恨消失。不要計較一時的得失，前往吉利，沒有什麼不利的。比喻格局宏大，必有成就。",
+    "meaning_keywords": "格局, 不計得失, 前進, 大吉, 成功"
+  },
+  {
+    "hexagram": "晉卦",
+    "position": "上九",
+    "original_text": "晉其角，維用伐邑，厲吉，無咎，貞吝。",
+    "modern_translation": "晉升到了頂點（鑽牛角尖），用來攻打自己的屬地（整頓內部）。雖然嚴厲但吉利。不過若一直強硬下去，會令人遺憾。",
+    "meaning_keywords": "頂點, 強硬, 內部整頓, 嚴厲, 遺憾"
+  },
+  {
+    "hexagram": "明夷卦",
+    "position": "初九",
+    "original_text": "明夷于飛，垂其翼。君子于行，三日不食，有攸往，主人有言。",
+    "modern_translation": "光明受損，鳥兒飛離，垂著翅膀（受傷）。君子逃難流亡，三天沒飯吃。雖然有所前往，但會受到主人的責難。",
+    "meaning_keywords": "逃難, 受傷, 飢餓, 流亡, 困苦"
+  },
+  {
+    "hexagram": "明夷卦",
+    "position": "六二",
+    "original_text": "明夷，夷于左股，用拯馬壯，吉。",
+    "modern_translation": "光明受損，傷在大腿左側。幸好用來拯救的馬很強壯，吉利。比喻雖然受傷，但有強力的外援或工具相助。",
+    "meaning_keywords": "受傷, 救援, 工具, 吉利, 輔助"
+  },
+  {
+    "hexagram": "明夷卦",
+    "position": "九三",
+    "original_text": "明夷于南狩，得其大首，不可疾，貞。",
+    "modern_translation": "在南方狩獵（光明處），抓到了罪魁禍首。但不可操之過急，要堅持正道。比喻去除黑暗的源頭。",
+    "meaning_keywords": "除惡, 罪魁禍首, 緩慢, 勝利, 光明"
+  },
+  {
+    "hexagram": "明夷卦",
+    "position": "六四",
+    "original_text": "入于左腹，獲明夷之心，于出門庭。",
+    "modern_translation": "深入左腹（內部），洞悉了黑暗的核心與真相，然後離開門庭（遠離是非之地）。比喻看清內幕後明哲保身。",
+    "meaning_keywords": "看清真相, 內幕, 離開, 明哲保身, 洞悉"
+  },
+  {
+    "hexagram": "明夷卦",
+    "position": "六五",
+    "original_text": "箕子之明夷，利貞。",
+    "modern_translation": "像箕子（商朝賢臣）一樣，在昏君手下裝瘋賣傻，隱藏智慧，堅守正道有利。比喻韜光養晦，忍辱負重。",
+    "meaning_keywords": "裝瘋賣傻, 忍辱負重, 韜光養晦, 生存, 智慧"
+  },
+  {
+    "hexagram": "明夷卦",
+    "position": "上六",
+    "original_text": "不明晦，初登于天，後入于地。",
+    "modern_translation": "不再光明，一片黑暗。起初像太陽升上天空，最後墜入地下。比喻暴君或惡勢力最終的敗亡。",
+    "meaning_keywords": "黑暗, 墜落, 敗亡, 結局, 絕望"
+  },
+  {
+    "hexagram": "家人卦",
+    "position": "初九",
+    "original_text": "閑有家，悔亡。",
+    "modern_translation": "在問題發生前就建立家規防範，悔恨消失。比喻治家（或管理團隊）要重在預防，建立規矩。",
+    "meaning_keywords": "規矩, 防範, 預防, 家教, 悔亡"
+  },
+  {
+    "hexagram": "家人卦",
+    "position": "六二",
+    "original_text": "無攸遂，在中饋，貞吉。",
+    "modern_translation": "不要追求個人的功成名就，而是專注於家務飲食（內部事務），堅守正道吉利。比喻盡好本分，做好後勤。",
+    "meaning_keywords": "本分, 後勤, 盡責, 內部, 吉利"
+  },
+  {
+    "hexagram": "家人卦",
+    "position": "九三",
+    "original_text": "家人嗃嗃，悔厲吉；婦子嘻嘻，終吝。",
+    "modern_translation": "家長管教嚴厲，家人雖然抱怨，但最終吉利。如果放任婦女小孩嘻嘻哈哈沒規矩，最終會遺憾。",
+    "meaning_keywords": "嚴厲, 規矩, 放縱, 遺憾, 管理"
+  },
+  {
+    "hexagram": "家人卦",
+    "position": "六四",
+    "original_text": "富家，大吉。",
+    "modern_translation": "使家庭富裕，大吉大利。比喻經營有道，順利累積財富。",
+    "meaning_keywords": "富裕, 財富, 經營, 大吉, 順利"
+  },
+  {
+    "hexagram": "家人卦",
+    "position": "九五",
+    "original_text": "王假有家，勿恤，吉。",
+    "modern_translation": "君王像家長一樣感化天下，不必憂慮，吉利。比喻領導者以身作則，團隊像家庭一樣和諧。",
+    "meaning_keywords": "感化, 和諧, 領導, 信任, 吉利"
+  },
+  {
+    "hexagram": "家人卦",
+    "position": "上九",
+    "original_text": "有孚威如，終吉。",
+    "modern_translation": "誠信而有威嚴，最終吉利。比喻做人有原則，讓人生畏又敬重，善始善終。",
+    "meaning_keywords": "誠信, 威嚴, 原則, 敬重, 圓滿"
+  },
+  {
+    "hexagram": "睽卦",
+    "position": "初九",
+    "original_text": "悔亡。喪馬勿逐，自復；見惡人，無咎。",
+    "modern_translation": "悔恨消失。馬跑了不用追，它自己會回來；遇到討厭的人，去溝通也沒有過失。比喻對分歧要包容，順其自然。",
+    "meaning_keywords": "順其自然, 包容, 溝通, 誤會, 回歸"
+  },
+  {
+    "hexagram": "睽卦",
+    "position": "九二",
+    "original_text": "遇主于巷，無咎。",
+    "modern_translation": "在小巷子裡巧遇主人（或貴人）。比喻在非正式場合消除誤會，達成共識。",
+    "meaning_keywords": "巧遇, 共識, 消除誤會, 機緣, 溝通"
+  },
+  {
+    "hexagram": "睽卦",
+    "position": "六三",
+    "original_text": "見輿曳，其牛掣，其人天且劓。無初有終。",
+    "modern_translation": "車子被拖住，牛被擋住，趕車的人還受了刑罰（鼻子被割）。處境雖慘，但誤會最終會消除，先苦後甘。",
+    "meaning_keywords": "阻礙, 誤會, 刑罰, 先苦後甘, 艱難"
+  },
+  {
+    "hexagram": "睽卦",
+    "position": "九四",
+    "original_text": "睽孤，遇元夫，交孚，厲無咎。",
+    "modern_translation": "因為意見不合而孤立，遇到了一位大丈夫（志同道合者），誠信相交，雖危險但無災禍。比喻在孤獨中找到盟友。",
+    "meaning_keywords": "孤立, 盟友, 誠信, 轉機, 合作"
+  },
+  {
+    "hexagram": "睽卦",
+    "position": "六五",
+    "original_text": "悔亡，厥宗噬膚，往何咎。",
+    "modern_translation": "悔恨消失。同宗族的人像咬合皮膚一樣親密（主動來化解），前往沒有過失。比喻隔閡消除，重修舊好。",
+    "meaning_keywords": "和解, 親密, 消除隔閡, 重修舊好, 主動"
+  },
+  {
+    "hexagram": "睽卦",
+    "position": "上九",
+    "original_text": "睽孤，見豕負塗，載鬼一車，先張之弧，後說之弧，匪寇婚媾，往遇雨則吉。",
+    "modern_translation": "孤獨多疑，看到豬滿身泥巴，還看到載滿鬼怪的車子（全是幻覺）。先拉弓要射，後來放下弓，發現不是強盜而是來求婚的。遇到雨（陰陽和合）則吉。",
+    "meaning_keywords": "多疑, 幻覺, 誤會冰釋, 轉危為安, 喜劇"
+  },
+  {
+    "hexagram": "蹇卦",
+    "position": "初六",
+    "original_text": "往蹇，來譽。",
+    "modern_translation": "前往會有險阻，回來（退守）會得到讚譽。比喻明智地知難而退，不做無謂犧牲。",
+    "meaning_keywords": "知難而退, 險阻, 讚譽, 停止, 明智"
+  },
+  {
+    "hexagram": "蹇卦",
+    "position": "六二",
+    "original_text": "王臣蹇蹇，匪躬之故。",
+    "modern_translation": "臣子歷經艱險，不是因為自己的緣故（是為了君國）。比喻為了責任或大局，不得不承擔困難。",
+    "meaning_keywords": "責任, 盡忠, 承擔, 艱險, 大局"
+  },
+  {
+    "hexagram": "蹇卦",
+    "position": "九三",
+    "original_text": "往蹇，來反。",
+    "modern_translation": "前往會有險阻，不如回來（反身修德或回到內部）。比喻外部環境惡劣，應該回歸家庭或內部。",
+    "meaning_keywords": "回歸, 內部, 修養, 避險, 反省"
+  },
+  {
+    "hexagram": "蹇卦",
+    "position": "六四",
+    "original_text": "往蹇，來連。",
+    "modern_translation": "前往會有險阻，回來聯合眾人。比喻一個人力量不足，要尋求盟友或眾人的支持。",
+    "meaning_keywords": "聯合, 盟友, 支持, 人脈, 團結"
+  },
+  {
+    "hexagram": "蹇卦",
+    "position": "九五",
+    "original_text": "大蹇，朋來。",
+    "modern_translation": "面臨巨大的險阻，朋友（志同道合者）會來相助。比喻德不孤，必有鄰，在危難中獲得援助。",
+    "meaning_keywords": "援助, 朋友, 危機, 合作, 希望"
+  },
+  {
+    "hexagram": "蹇卦",
+    "position": "上六",
+    "original_text": "往蹇，來碩，吉，利見大人。",
+    "modern_translation": "前往有險阻，回來會有碩大的收穫，吉利。利於去拜見大人物（尋求指引）。比喻退一步海闊天空，並尋求導師。",
+    "meaning_keywords": "導師, 收穫, 轉向, 指引, 吉利"
+  },
+  {
+    "hexagram": "解卦",
+    "position": "初六",
+    "original_text": "無咎。",
+    "modern_translation": "沒有過失。問題剛解決，災難剛過，只要安分守己，修養生息就好。",
+    "meaning_keywords": "解決, 休息, 平安, 無咎, 恢復"
+  },
+  {
+    "hexagram": "解卦",
+    "position": "九二",
+    "original_text": "田獲三狐，得黃矢，貞吉。",
+    "modern_translation": "打獵抓到三隻狐狸（狡猾的小人），獲得了黃色的箭矢（中正剛直的力量）。比喻除去身邊的小人或壞習慣，堅守正道吉利。",
+    "meaning_keywords": "除害, 小人, 正直, 勝利, 解決問題"
+  },
+  {
+    "hexagram": "解卦",
+    "position": "六三",
+    "original_text": "負且乘，致寇至，貞吝。",
+    "modern_translation": "背著重物卻坐在華麗的車上（地位與能力不符），招來強盜搶劫。雖然想做好，但結果令人遺憾。比喻招搖過市，自取其辱。",
+    "meaning_keywords": "招搖, 不自量力, 強盜, 遺憾, 風險"
+  },
+  {
+    "hexagram": "解卦",
+    "position": "九四",
+    "original_text": "解而拇，朋至斯孚。",
+    "modern_translation": "解開被綁住的腳拇指（擺脫依附的小人）。這樣一來，真正志同道合的朋友就會懷著誠信到來。",
+    "meaning_keywords": "擺脫, 斷絕壞關係, 朋友, 誠信, 自由"
+  },
+  {
+    "hexagram": "解卦",
+    "position": "六五",
+    "original_text": "君子維有解，吉，有孚于小人。",
+    "modern_translation": "君子主動解除了小人的職務（或影響力），吉利。這讓小人也心服口服（或不得不服）。比喻果斷處理人事問題。",
+    "meaning_keywords": "果斷, 人事, 解除, 吉利, 君子"
+  },
+  {
+    "hexagram": "解卦",
+    "position": "上六",
+    "original_text": "公用射隼于高墉之上，獲之，無不利。",
+    "modern_translation": "王公站在高牆上射中了兇猛的隼鳥（罪魁禍首），抓住了它，沒有什麼不利。比喻居高臨下，精準清除禍根。",
+    "meaning_keywords": "清除禍根, 精準, 勝利, 解決, 除惡"
+  },
+  {
+    "hexagram": "損卦",
+    "position": "初九",
+    "original_text": "已事遄往，無咎，酌損之。",
+    "modern_translation": "停下自己的事，趕快去幫助朋友，沒有過失。但要斟酌情形，量力而為（不要幫倒忙）。",
+    "meaning_keywords": "助人, 暫停, 斟酌, 義氣, 犧牲"
+  },
+  {
+    "hexagram": "損卦",
+    "position": "九二",
+    "original_text": "利貞，征凶，弗損益之。",
+    "modern_translation": "利於堅守正道，如果輕舉妄動會有凶險。不要為了討好別人而減損自己的原則（不損己而益人）。",
+    "meaning_keywords": "原則, 自重, 堅持, 凶險, 界線"
+  },
+  {
+    "hexagram": "損卦",
+    "position": "六三",
+    "original_text": "三人行，則損一人；一人行，則得其友。",
+    "modern_translation": "三個人一起走，會因為意見不合而少一人；一個人獨行，反而會遇到志同道合的朋友。比喻做事要專一，人多口雜反而壞事。",
+    "meaning_keywords": "專一, 獨行, 夥伴, 選擇, 減法"
+  },
+  {
+    "hexagram": "損卦",
+    "position": "六四",
+    "original_text": "損其疾，使遄有喜，無咎。",
+    "modern_translation": "減損身上的疾病（缺點），趕快治好會有喜事，沒有過失。比喻有錯就改，越快越好。",
+    "meaning_keywords": "改過, 治病, 迅速, 喜事, 修正"
+  },
+  {
+    "hexagram": "損卦",
+    "position": "六五",
+    "original_text": "或益之，十朋之龜弗克違，元吉。",
+    "modern_translation": "有人來增益你，價值連城的寶龜都無法違背這好運（天意），大吉大利。比喻運勢極佳，獲得巨大的幫助。",
+    "meaning_keywords": "大吉, 天意, 幫助, 收穫, 運氣"
+  },
+  {
+    "hexagram": "損卦",
+    "position": "上九",
+    "original_text": "弗損益之，無咎，貞吉，利有攸往，得臣無家。",
+    "modern_translation": "不需要減損自己就能利益他人（雙贏），沒有過失，堅持正道吉利。利於有所前往，會得到不顧私家的忠臣（或全心投入的夥伴）。",
+    "meaning_keywords": "雙贏, 領袖, 忠誠, 大格局, 吉利"
+  },
+  {
+    "hexagram": "益卦",
+    "position": "初九",
+    "original_text": "利用為大作，元吉，無咎。",
+    "modern_translation": "利於興建大工程（做大事），大吉大利，沒有過失。比喻時機成熟，可以大展身手，造福眾人。",
+    "meaning_keywords": "大工程, 創業, 造福, 大吉, 行動"
+  },
+  {
+    "hexagram": "益卦",
+    "position": "六二",
+    "original_text": "或益之，十朋之龜弗克違，永貞吉。王用享于帝，吉。",
+    "modern_translation": "有人來幫助，天意支持（像損卦六五一樣好運）。永遠堅守正道吉利。君王祭祀天帝，吉利。比喻誠心能感動上天與他人。",
+    "meaning_keywords": "天助, 誠心, 祭祀, 吉利, 感動"
+  },
+  {
+    "hexagram": "益卦",
+    "position": "六三",
+    "original_text": "益之用凶事，無咎。有孚中行，告公用圭。",
+    "modern_translation": "利用凶事（如賑災、危機處理）來增益眾人，沒有過失。抱著誠信走中道，向王公報告要用信物（鄭重其事）。",
+    "meaning_keywords": "危機處理, 賑災, 誠信, 鄭重, 轉機"
+  },
+  {
+    "hexagram": "益卦",
+    "position": "六四",
+    "original_text": "中行，告公從。利用為依遷國。",
+    "modern_translation": "行中庸之道，報告王公會得到依從。利於作為依靠來遷得國都（做重大改變）。比喻獲得信任，能推動重大改革。",
+    "meaning_keywords": "改革, 信任, 依賴, 遷徙, 決策"
+  },
+  {
+    "hexagram": "益卦",
+    "position": "九五",
+    "original_text": "有孚惠心，勿問元吉。有孚惠我德。",
+    "modern_translation": "心懷誠信去惠澤他人，不必占卜就知道大吉大利。因為你的誠信，大家也會回報恩德。比喻施恩不求報，反而回報豐厚。",
+    "meaning_keywords": "施恩, 回報, 誠信, 大吉, 善意"
+  },
+  {
+    "hexagram": "益卦",
+    "position": "上九",
+    "original_text": "莫益之，或擊之，立心勿恆，凶。",
+    "modern_translation": "沒有人來幫助他，甚至有人攻擊他。因為他立心不恆定（貪得無厭），凶險。比喻自私自利，最終眾叛親離。",
+    "meaning_keywords": "自私, 攻擊, 貪婪, 凶險, 孤立"
+  },
+  {
+    "hexagram": "夬卦",
+    "position": "初九",
+    "original_text": "壯于前趾，往不勝為咎。",
+    "modern_translation": "腳趾強壯急著前進，前往卻不能勝任，會有災禍。比喻時機未到，能力不足，就急著去攤牌或決鬥。",
+    "meaning_keywords": "急躁, 攤牌, 失敗, 能力不足, 災禍"
+  },
+  {
+    "hexagram": "夬卦",
+    "position": "九二",
+    "original_text": "惕號，莫夜有戎，勿恤。",
+    "modern_translation": "驚恐地呼號，夜裡有軍隊來襲（做好戒備）。因為有準備，所以不必擔憂。比喻時刻警惕，防患未然。",
+    "meaning_keywords": "警惕, 戒備, 防範, 安心, 準備"
+  },
+  {
+    "hexagram": "夬卦",
+    "position": "九三",
+    "original_text": "壯于頄，有凶。君子夬夬，獨行遇雨，若濡有慍，無咎。",
+    "modern_translation": "顴骨顯出怒容（怒形於色），有凶險。君子決斷堅決，雖然獨行遇雨全身濕透，被人誤解而不悅，但最終沒有過失。",
+    "meaning_keywords": "誤解, 獨行, 堅決, 怒氣, 無咎"
+  },
+  {
+    "hexagram": "夬卦",
+    "position": "九四",
+    "original_text": "臀無膚，其行次且。牽羊悔亡，聞言不信。",
+    "modern_translation": "屁股沒肉（坐不住），走路艱難。如果像牽羊一樣順從（不固執）則悔恨消失。但卻聽不進別人的話。比喻固執己見，進退兩難。",
+    "meaning_keywords": "固執, 進退兩難, 不聽勸, 焦慮, 困難"
+  },
+  {
+    "hexagram": "夬卦",
+    "position": "九五",
+    "original_text": "莧陸夬夬，中行無咎。",
+    "modern_translation": "像剷除莧陸草一樣，果斷地解決身邊的小人，行中道沒有過失。比喻雖然親近，但為了原則必須切割。",
+    "meaning_keywords": "切割, 果斷, 清除, 原則, 中道"
+  },
+  {
+    "hexagram": "夬卦",
+    "position": "上六",
+    "original_text": "無號，終有凶。",
+    "modern_translation": "號哭也沒有用了，最終有凶險。比喻小人勢力已去，或者君子優柔寡斷錯失良機，最終失敗。",
+    "meaning_keywords": "失敗, 絕望, 錯失良機, 凶險, 結局"
+  },
+  {
+    "hexagram": "姤卦",
+    "position": "初六",
+    "original_text": "繫于金柅，貞吉。有攸往，見凶。羸豕孚蹢躅。",
+    "modern_translation": "像被金屬剎車緊緊制動一樣（控制衝動），堅持正道吉利。如果隨意前往會有凶險。就像瘦弱的豬想要亂跳，必須綁住。比喻要在誘惑剛開始時就制止。",
+    "meaning_keywords": "誘惑, 制止, 衝動, 凶險, 控制"
+  },
+  {
+    "hexagram": "姤卦",
+    "position": "九二",
+    "original_text": "包有魚，無咎。不利賓。",
+    "modern_translation": "廚房裡有魚（資源在手），沒有過失。但不適合拿出來宴請賓客（避免外流）。比喻要看緊自己的財物或情人，不讓外人染指。",
+    "meaning_keywords": "私有, 資源, 控制, 防範, 不外流"
+  },
+  {
+    "hexagram": "姤卦",
+    "position": "九三",
+    "original_text": "臀無膚，其行次且，厲，無大咎。",
+    "modern_translation": "屁股沒肉，走路艱難（像夬卦九四一樣）。處境危險，雖然受到誘惑或牽連，但因為行動不便反而沒鑄成大錯，沒有大過失。",
+    "meaning_keywords": "艱難, 誘惑, 危險, 因禍得福, 牽連"
+  },
+  {
+    "hexagram": "姤卦",
+    "position": "九四",
+    "original_text": "包無魚，起凶。",
+    "modern_translation": "廚房裡沒有魚（資源流失），凶險。比喻身居高位卻脫離群眾，或者錯失了機會，導致眾叛親離。",
+    "meaning_keywords": "流失, 凶險, 錯失機會, 脫離群眾, 空虛"
+  },
+  {
+    "hexagram": "姤卦",
+    "position": "九五",
+    "original_text": "以杞包瓜，含章，有隕自天。",
+    "modern_translation": "用杞柳樹葉包著瓜果（保護其不外露），內藏美德。好運會像從天上掉下來一樣。比喻低調守護美好事物，會有意外驚喜。",
+    "meaning_keywords": "低調, 保護, 驚喜, 內斂, 美德"
+  },
+  {
+    "hexagram": "姤卦",
+    "position": "上九",
+    "original_text": "姤其角，吝，無咎。",
+    "modern_translation": "相遇在頭頂的角上（剛硬對剛硬）。雖然令人遺憾（沒有火花或結果），但也因此沒有過失。比喻極度孤傲，沒人敢接近。",
+    "meaning_keywords": "孤傲, 遺憾, 僵硬, 沒結果, 疏離"
+  },
+  {
+    "hexagram": "萃卦",
+    "position": "初六",
+    "original_text": "有孚不終，乃亂乃萃。若號，一握為笑。勿恤，往無咎。",
+    "modern_translation": "誠信不能堅持到底，導致聚集混亂。如果能像呼號一樣尋求正道，大家握手言歡。不必擔憂，前往沒有過失。",
+    "meaning_keywords": "混亂, 溝通, 和解, 誠信, 聚集"
+  },
+  {
+    "hexagram": "萃卦",
+    "position": "六二",
+    "original_text": "引吉，無咎，孚乃利用禴。",
+    "modern_translation": "被牽引著去聚集，吉利，沒有過失。只要有誠信，即使微薄的祭品（禴）也能感動神明。比喻誠意最重要。",
+    "meaning_keywords": "誠意, 牽引, 吉利, 感動, 微薄"
+  },
+  {
+    "hexagram": "萃卦",
+    "position": "六三",
+    "original_text": "萃如嗟如，無攸利。往無咎，小吝。",
+    "modern_translation": "聚集時唉聲嘆氣（因為沒遇到合適的人），沒有什麼好處。前往尋求聚合沒有過失，但會有點小遺憾。比喻孤獨感。",
+    "meaning_keywords": "嘆氣, 孤獨, 遺憾, 尋求, 聚會"
+  },
+  {
+    "hexagram": "萃卦",
+    "position": "九四",
+    "original_text": "大吉，無咎。",
+    "modern_translation": "大吉大利，沒有過失。比喻身處高位，能夠把大家團結起來，雖有僭越之嫌，但因為做得好所以沒事。",
+    "meaning_keywords": "大吉, 團結, 領導, 成功, 號召"
+  },
+  {
+    "hexagram": "萃卦",
+    "position": "九五",
+    "original_text": "萃有位，無咎。匪孚，元永貞，悔亡。",
+    "modern_translation": "身居聚集的尊位，沒有過失。如果大家還不夠信服，就要堅守正道、修養德行，悔恨終將消失。比喻領導者要以德服人。",
+    "meaning_keywords": "尊位, 領導, 信服, 以德服人, 堅持"
+  },
+  {
+    "hexagram": "萃卦",
+    "position": "上六",
+    "original_text": "齎咨涕洟，無咎。",
+    "modern_translation": "悲傷地哭泣流淚（因為被排擠或未被接納）。雖然難過，但沒有過失。比喻想要融入群體卻不可得的無奈。",
+    "meaning_keywords": "哭泣, 排擠, 無奈, 孤立, 傷心"
+  },
+  {
+    "hexagram": "升卦",
+    "position": "初六",
+    "original_text": "允升，大吉。",
+    "modern_translation": "獲得允許而晉升（或與上級志同道合），大吉大利。比喻一開始就得到支持，順利成長。",
+    "meaning_keywords": "晉升, 支持, 大吉, 順利, 成長"
+  },
+  {
+    "hexagram": "升卦",
+    "position": "九二",
+    "original_text": "孚乃利用禴，無咎。",
+    "modern_translation": "有誠信，即使祭品微薄也能感動神明（同萃卦六二）。比喻晉升靠的是真誠而非賄賂。",
+    "meaning_keywords": "真誠, 簡約, 感動, 無咎, 晉升"
+  },
+  {
+    "hexagram": "升卦",
+    "position": "九三",
+    "original_text": "升虛邑。",
+    "modern_translation": "上升到無人的城邑（沒有阻礙）。比喻晉升之路暢通無阻，如入無人之境。",
+    "meaning_keywords": "暢通, 無阻礙, 順利, 輕鬆, 機會"
+  },
+  {
+    "hexagram": "升卦",
+    "position": "六四",
+    "original_text": "王用亨于岐山，吉，無咎。",
+    "modern_translation": "君王在岐山舉行祭祀，吉利，沒有過失。比喻誠心敬神，獲得精神上的升華與佑助。",
+    "meaning_keywords": "祭祀, 精神升華, 吉利, 天助, 誠心"
+  },
+  {
+    "hexagram": "升卦",
+    "position": "六五",
+    "original_text": "貞吉，升階。",
+    "modern_translation": "堅守正道吉利，像沿著階梯一步步上升。比喻腳踏實地，穩步高升。",
+    "meaning_keywords": "穩步, 階梯, 紮實, 吉利, 按部就班"
+  },
+  {
+    "hexagram": "升卦",
+    "position": "上六",
+    "original_text": "冥升，利于不息之貞。",
+    "modern_translation": "在昏暗中仍堅持上升（可能停不下來）。利於保持不懈的堅持，但也暗示要知進退，不要盲目衝過頭。",
+    "meaning_keywords": "盲目, 堅持, 昏暗, 衝過頭, 警惕"
+  },
+  {
+    "hexagram": "困卦",
+    "position": "初六",
+    "original_text": "臀困于株木，入于幽谷，三歲不覿。",
+    "modern_translation": "屁股被卡在枯木樁上（坐立難安），退入幽深的山谷，三年都看不見人。比喻陷入絕境，長期不得志。",
+    "meaning_keywords": "絕境, 孤立, 長期, 困頓, 痛苦"
+  },
+  {
+    "hexagram": "困卦",
+    "position": "九二",
+    "original_text": "困于酒食，朱紱方來，利用享祀，征凶，無咎。",
+    "modern_translation": "被酒食宴樂所困（或在困境中仍有酒食）。穿著紅官服的人（貴人）剛好來了。利於祭祀（展現誠意），若主動出擊則凶。比喻等待救援。",
+    "meaning_keywords": "等待救援, 貴人, 享樂, 困境, 被動"
+  },
+  {
+    "hexagram": "困卦",
+    "position": "六三",
+    "original_text": "困于石，據于蒺藜，入于其宮，不見其妻，凶。",
+    "modern_translation": "受困於亂石，又被荊棘刺傷。回到家中，連妻子都不見了。比喻禍不單行，身心俱疲，凶險。",
+    "meaning_keywords": "禍不單行, 絕望, 荊棘, 凶險, 失去"
+  },
+  {
+    "hexagram": "困卦",
+    "position": "九四",
+    "original_text": "來徐徐，困于金車，吝，有終。",
+    "modern_translation": "救援來得很慢，因為被金屬車（富有者或職位）所困擾。雖然遺憾，但最終能會合解決問題。",
+    "meaning_keywords": "遲緩, 阻礙, 遺憾, 最終解決, 等待"
+  },
+  {
+    "hexagram": "困卦",
+    "position": "九五",
+    "original_text": "劓刖，困于赤紱，乃徐有說，利用祭祀。",
+    "modern_translation": "鼻子腳跟被砍斷（受刑），被穿紅官服的人（權貴）所壓迫。但慢慢會獲得解脫，利於祭祀祈禱。比喻受盡折磨後終獲自由。",
+    "meaning_keywords": "折磨, 壓迫, 解脫, 祭祀, 苦盡甘來"
+  },
+  {
+    "hexagram": "困卦",
+    "position": "上六",
+    "original_text": "困于葛藟，于臲卼，曰動悔。有悔，征吉。",
+    "modern_translation": "被藤蔓纏繞，處於危險動盪中。原本以為動了會後悔，但如果這時能覺悟並行動，反而吉利。比喻困境是心理枷鎖，打破它就能解脫。",
+    "meaning_keywords": "打破枷鎖, 行動, 轉機, 纏繞, 覺悟"
+  },
+  {
+    "hexagram": "井卦",
+    "position": "初六",
+    "original_text": "井泥不食，舊井無禽。",
+    "modern_translation": "井底都是爛泥，水不能喝；廢棄的舊井連鳥雀都不來。比喻才華被埋沒，或者自身能力荒廢，無人問津。",
+    "meaning_keywords": "荒廢, 爛泥, 埋沒, 無用, 被遺忘"
+  },
+  {
+    "hexagram": "井卦",
+    "position": "九二",
+    "original_text": "井谷射鮒，甕敝漏。",
+    "modern_translation": "井裡的水像山谷的小溪只夠射小魚（大材小用），且裝水的甕又破漏。比喻雖有才華但不受重用，或合作夥伴不給力。",
+    "meaning_keywords": "大材小用, 破漏, 浪費, 懷才不遇, 徒勞"
+  },
+  {
+    "hexagram": "井卦",
+    "position": "九三",
+    "original_text": "井渫不食，為我心惻，可用汲，王明，並受其福。",
+    "modern_translation": "井水掏乾淨了卻沒人來喝，令人心痛。其實這水是可以汲取的，如果君王英明，大家都能享福。比喻懷才不遇，渴望遇到明主。",
+    "meaning_keywords": "懷才不遇, 乾淨, 可惜, 等待明主, 資源閒置"
+  },
+  {
+    "hexagram": "井卦",
+    "position": "六四",
+    "original_text": "井甃，無咎。",
+    "modern_translation": "修砌井壁（維修中）。沒有過失。比喻在關鍵時刻進行自我修養或內部整頓，暫時不發揮作用是為了長遠。",
+    "meaning_keywords": "修養, 整頓, 維護, 準備, 無咎"
+  },
+  {
+    "hexagram": "井卦",
+    "position": "九五",
+    "original_text": "井冽，寒泉食。",
+    "modern_translation": "井水清澈甘甜，像冰涼的泉水一樣可供飲用。比喻德行完備，才華展現，造福眾人。",
+    "meaning_keywords": "甘泉, 貢獻, 完美, 造福, 才華展現"
+  },
+  {
+    "hexagram": "井卦",
+    "position": "上六",
+    "original_text": "井收勿幕，有孚元吉。",
+    "modern_translation": "井修好了，不要蓋上蓋子（不藏私），有誠信地讓人取用，大吉大利。比喻大公無私，資源共享。",
+    "meaning_keywords": "共享, 開放, 大吉, 誠信, 源源不絕"
+  },
+  {
+    "hexagram": "革卦",
+    "position": "初九",
+    "original_text": "鞏用黃牛之革。",
+    "modern_translation": "用黃牛皮繩緊緊綁住（不讓動）。比喻改革時機尚未成熟，應該暫時按兵不動，固守現狀。",
+    "meaning_keywords": "時機未到, 按兵不動, 固守, 綁住, 忍耐"
+  },
+  {
+    "hexagram": "革卦",
+    "position": "六二",
+    "original_text": "巳日乃革之，征吉，無咎。",
+    "modern_translation": "到了祭祀的日子（時機成熟）才進行改革，出征吉利，沒有過失。比喻經過深思熟慮，在對的時間行動。",
+    "meaning_keywords": "時機成熟, 改革, 吉利, 行動, 準備好"
+  },
+  {
+    "hexagram": "革卦",
+    "position": "九三",
+    "original_text": "征凶，貞厲。革言三就，有孚。",
+    "modern_translation": "貿然出征凶險，堅守正道也危險。關於改革的言論要反覆討論三次（審慎），取得信任後才能行動。",
+    "meaning_keywords": "審慎, 溝通, 信任, 討論, 危險"
+  },
+  {
+    "hexagram": "革卦",
+    "position": "九四",
+    "original_text": "悔亡，有孚改命，吉。",
+    "modern_translation": "悔恨消失，懷著誠信去改變天命（制度），吉利。比喻大刀闊斧地改革，獲得支持。",
+    "meaning_keywords": "改命, 改革, 誠信, 吉利, 突破"
+  },
+  {
+    "hexagram": "革卦",
+    "position": "九五",
+    "original_text": "大人虎變，未占有孚。",
+    "modern_translation": "大人物像老虎換毛一樣，文采炳煥，煥然一新。不用占卜就知道大家都會信服。比喻改革成果顯著。",
+    "meaning_keywords": "煥然一新, 顯著, 虎變, 領袖, 信服"
+  },
+  {
+    "hexagram": "革卦",
+    "position": "上六",
+    "original_text": "君子豹變，小人革面，征凶，居貞吉。",
+    "modern_translation": "君子像豹一樣變得文采斐然（中等程度的改變），小人只是洗心革面（表面改變）。這時再繼續激進改革會凶，安守成果則吉。",
+    "meaning_keywords": "豹變, 表面, 停止, 守成, 結局"
+  },
+  {
+    "hexagram": "鼎卦",
+    "position": "初六",
+    "original_text": "鼎顛趾，利出否，得妾以其子，無咎。",
+    "modern_translation": "把鼎的腳顛倒過來，是為了倒出裡面的髒東西，有利。就像娶妾是因為想要兒子。雖然手段不常規，但為了除舊佈新，沒有過失。",
+    "meaning_keywords": "除舊佈新, 清理, 非常手段, 轉化, 無咎"
+  },
+  {
+    "hexagram": "鼎卦",
+    "position": "九二",
+    "original_text": "鼎有實，我仇有疾，不我能即，吉。",
+    "modern_translation": "鼎裡有食物（有實力），雖然對頭嫉妒想要破壞，但他傷不了我，吉利。比喻只要自己有實力，不怕別人嫉妒。",
+    "meaning_keywords": "實力, 嫉妒, 穩固, 吉利, 充實"
+  },
+  {
+    "hexagram": "鼎卦",
+    "position": "九三",
+    "original_text": "鼎耳革，其行塞，雉膏不食，方雨虧悔，終吉。",
+    "modern_translation": "鼎的耳朵掉了，無法搬運，美味的野雞肉吃不到。行動受阻。但等到陰陽調和（下雨）時，悔恨會消失，最終吉利。比喻懷才不遇的暫時挫折。",
+    "meaning_keywords": "受阻, 挫折, 吃不到, 變革, 最終吉利"
+  },
+  {
+    "hexagram": "鼎卦",
+    "position": "九四",
+    "original_text": "鼎折足，覆公餗，其形渥，凶。",
+    "modern_translation": "鼎的腳斷了，打翻了王公的美食，弄得滿地狼籍，凶險。比喻德不配位，承擔不了重任，導致任務失敗。",
+    "meaning_keywords": "失敗, 搞砸, 德不配位, 凶險, 狼籍"
+  },
+  {
+    "hexagram": "鼎卦",
+    "position": "六五",
+    "original_text": "鼎黃耳金鉉，利貞。",
+    "modern_translation": "鼎裝上了黃色的耳朵和金屬的橫桿（裝飾華美且堅固），利於堅守正道。比喻領導者善於任用賢才，地位穩固。",
+    "meaning_keywords": "穩固, 尊貴, 用人, 裝飾, 正道"
+  },
+  {
+    "hexagram": "鼎卦",
+    "position": "上九",
+    "original_text": "鼎玉鉉，大吉，無不利。",
+    "modern_translation": "鼎配上了玉製的橫桿（溫潤剛硬），大吉大利。比喻事業達到頂峰，剛柔並濟，圓滿成功。",
+    "meaning_keywords": "圓滿, 頂峰, 玉鉉, 大吉, 剛柔並濟"
+  },
+  {
+    "hexagram": "震卦",
+    "position": "初九",
+    "original_text": "震來虩虩，後笑言啞啞，吉。",
+    "modern_translation": "震雷傳來令人恐懼，但後來大家談笑風生，吉利。比喻面對變局能心存敬畏、處變不驚，最終化險為夷。",
+    "meaning_keywords": "恐懼, 處變不驚, 笑顏, 轉危為安, 敬畏"
+  },
+  {
+    "hexagram": "震卦",
+    "position": "六二",
+    "original_text": "震來厲，億喪貝，躋于九陵，勿逐，七日得。",
+    "modern_translation": "震雷帶來危險，丟失了大量錢財，逃到高山上。不要去追回損失，七天後自然會回來。比喻危機時先保命，身外之物暫時放下。",
+    "meaning_keywords": "破財, 避難, 損失, 復得, 保命"
+  },
+  {
+    "hexagram": "震卦",
+    "position": "六三",
+    "original_text": "震蘇蘇，震行無眚。",
+    "modern_translation": "被雷聲嚇得發抖，但因為恐懼而謹慎行動，就不會有災禍。比喻因畏懼而不敢大意。",
+    "meaning_keywords": "發抖, 謹慎, 畏懼, 無災, 小心"
+  },
+  {
+    "hexagram": "震卦",
+    "position": "九四",
+    "original_text": "震遂泥。",
+    "modern_translation": "雷聲墜入泥沼中（發不出聲音）。比喻在危機中喪失了鬥志，或者力量被困住無法發揮。",
+    "meaning_keywords": "泥沼, 困住, 無力, 喪失鬥志, 停滯"
+  },
+  {
+    "hexagram": "震卦",
+    "position": "六五",
+    "original_text": "震往來厲，億無喪，有事。",
+    "modern_translation": "震雷來去雖然危險，但並未造成大損失，還是能處理祭祀大事。比喻在動盪中保持鎮定，堅守崗位。",
+    "meaning_keywords": "鎮定, 動盪, 堅守, 無大損, 負責"
+  },
+  {
+    "hexagram": "震卦",
+    "position": "上六",
+    "original_text": "震索索，視矍矍，征凶。震不于其躬，于其鄰，無咎。婚媾有言。",
+    "modern_translation": "被嚇得魂飛魄散，眼神驚恐，這時候行動會凶險。雷沒打在自己身上，而是打在鄰居身上，只要能引以為戒就沒有過失。雖然會有些閒言碎語。",
+    "meaning_keywords": "驚恐, 魂飛魄散, 引以為戒, 鄰居, 警告"
+  },
+  {
+    "hexagram": "艮卦",
+    "position": "初六",
+    "original_text": "艮其趾，無咎，利永貞。",
+    "modern_translation": "在腳趾剛動的時候就停止（事情剛開始就控制住欲望），沒有過失，利於長久堅持正道。",
+    "meaning_keywords": "停止, 初心, 控制, 慎始, 無咎"
+  },
+  {
+    "hexagram": "艮卦",
+    "position": "六二",
+    "original_text": "艮其腓，不拯其隨，其心不快。",
+    "modern_translation": "想停下小腿，但大腿還在動（無法控制跟隨的對象）。想救人卻無能為力，心裡不痛快。比喻想停止卻身不由己。",
+    "meaning_keywords": "身不由己, 無奈, 牽制, 不快, 被動"
+  },
+  {
+    "hexagram": "艮卦",
+    "position": "九三",
+    "original_text": "艮其限，列其夤，厲薰心。",
+    "modern_translation": "強行停止在腰部，導致脊背肉裂開（動作僵硬不自然）。危險像火燒心一樣。比喻強行壓抑，導致身心分離，極度痛苦。",
+    "meaning_keywords": "壓抑, 痛苦, 僵硬, 危險, 強求"
+  },
+  {
+    "hexagram": "艮卦",
+    "position": "六四",
+    "original_text": "艮其身，無咎。",
+    "modern_translation": "停止上半身不動（管好自己），沒有過失。比喻潔身自愛，獨善其身。",
+    "meaning_keywords": "獨善其身, 自律, 潔身自愛, 無咎, 安靜"
+  },
+  {
+    "hexagram": "艮卦",
+    "position": "六五",
+    "original_text": "艮其輔，言有序，悔亡。",
+    "modern_translation": "管住嘴巴（輔），說話有條理分寸，悔恨消失。比喻慎言，不亂說話。",
+    "meaning_keywords": "慎言, 溝通, 有序, 閉嘴, 悔亡"
+  },
+  {
+    "hexagram": "艮卦",
+    "position": "上九",
+    "original_text": "敦艮，吉。",
+    "modern_translation": "敦厚誠實地靜止（修養到了最高境界），吉利。比喻內心完全平靜，不為外物所動。",
+    "meaning_keywords": "敦厚, 平靜, 境界, 吉利, 定力"
+  },
+  {
+    "hexagram": "漸卦",
+    "position": "初六",
+    "original_text": "鴻漸于干，小子厲，有言，無咎。",
+    "modern_translation": "鴻雁飛到了水邊（剛起步）。對年輕人來說有點危險，會受到一些言語指責，但只要謹慎就沒有過失。",
+    "meaning_keywords": "起步, 批評, 謹慎, 學習, 過程"
+  },
+  {
+    "hexagram": "漸卦",
+    "position": "六二",
+    "original_text": "鴻漸于磐，飲食衎衎，吉。",
+    "modern_translation": "鴻雁飛到了磐石上（穩固的基礎），飲食快樂和樂，吉利。比喻找到了安身立命之處，生活安穩。",
+    "meaning_keywords": "安穩, 基礎, 快樂, 舒適, 吉利"
+  },
+  {
+    "hexagram": "漸卦",
+    "position": "九三",
+    "original_text": "鴻漸于陸，夫征不復，婦孕不育，凶，利禦寇。",
+    "modern_translation": "鴻雁飛到了旱地（不是棲息地）。丈夫出征不回，妻子懷孕卻流產，凶險。這時利於防禦強盜（自我保護）。比喻走錯了路，陷入困境。",
+    "meaning_keywords": "走錯路, 分離, 流產, 凶險, 防禦"
+  },
+  {
+    "hexagram": "漸卦",
+    "position": "六四",
+    "original_text": "鴻漸于木，或得其桷，無咎。",
+    "modern_translation": "鴻雁飛到了樹上（雖然危險），但找到了平直的樹枝棲息，沒有過失。比喻處境雖不理想，但能隨遇而安。",
+    "meaning_keywords": "隨遇而安, 適應, 棲息, 暫時, 無咎"
+  },
+  {
+    "hexagram": "漸卦",
+    "position": "九五",
+    "original_text": "鴻漸于陵，婦三歲不孕，終莫之勝，吉。",
+    "modern_translation": "鴻雁飛到了山陵（高處）。妻子三年都沒懷孕（受到阻隔），但最終沒有人能阻擋團圓，吉利。比喻好事多磨，最終成功。",
+    "meaning_keywords": "好事多磨, 阻隔, 團圓, 堅持, 最終吉利"
+  },
+  {
+    "hexagram": "漸卦",
+    "position": "上九",
+    "original_text": "鴻漸于陸，其羽可用為儀，吉。",
+    "modern_translation": "鴻雁飛越雲霄（超脫），掉落的羽毛可以作為儀仗裝飾，吉利。比喻功成名就後退隱，留下美好的名聲作為典範。",
+    "meaning_keywords": "典範, 名聲, 超脫, 儀式, 高尚"
+  },
+  {
+    "hexagram": "歸妹卦",
+    "position": "初九",
+    "original_text": "歸妹以娣，跛能履，征吉。",
+    "modern_translation": "嫁女兒時把妹妹作為陪嫁。雖然腳跛了但還能走（能力有缺陷），前往吉利。比喻安守配角的本分，輔助他人。",
+    "meaning_keywords": "配角, 輔助, 守分, 缺陷, 吉利"
+  },
+  {
+    "hexagram": "歸妹卦",
+    "position": "九二",
+    "original_text": "眇能視，利幽人之貞。",
+    "modern_translation": "眼睛瞎了一隻還能看（視野受限）。利於像幽居之人一樣堅守正道。比喻雖然被忽視或受委屈，但仍忠貞不二。",
+    "meaning_keywords": "委屈, 忠貞, 忽視, 守正, 堅持"
+  },
+  {
+    "hexagram": "歸妹卦",
+    "position": "六三",
+    "original_text": "歸妹以須，反歸以娣。",
+    "modern_translation": "想嫁人卻還在等待陪嫁的人（姿態不對，太急或太挑）。結果只能回去做陪嫁的妾。比喻追求名分不成，反而地位下降。",
+    "meaning_keywords": "地位下降, 錯誤期待, 尷尬, 失敗, 附屬"
+  },
+  {
+    "hexagram": "歸妹卦",
+    "position": "九四",
+    "original_text": "歸妹愆期，遲歸有時。",
+    "modern_translation": "錯過了婚期，雖然遲了，但總會有嫁出去的時候。比喻為了等待對的人，寧願晚一點也不將就。",
+    "meaning_keywords": "等待, 晚婚, 不將就, 時機, 堅持"
+  },
+  {
+    "hexagram": "歸妹卦",
+    "position": "六五",
+    "original_text": "帝乙歸妹，其君之袂，不如其娣之袂良。月幾望，吉。",
+    "modern_translation": "帝乙嫁女兒，正室穿的衣服反而不如陪嫁的妾華麗（謙虛不炫耀）。就像月亮快圓滿了，吉利。比喻尊貴者懂得謙讓。",
+    "meaning_keywords": "謙讓, 樸素, 內涵, 圓滿, 吉利"
+  },
+  {
+    "hexagram": "歸妹卦",
+    "position": "上六",
+    "original_text": "女承筐無實，士刲羊無血，無攸利。",
+    "modern_translation": "新娘捧著竹筐裡面是空的，新郎殺羊卻沒有血。沒有任何好處。比喻形式上的結合，沒有實質內容，一場空。",
+    "meaning_keywords": "虛假, 形式主義, 一場空, 無利, 失敗"
+  },
+  {
+    "hexagram": "豐卦",
+    "position": "初九",
+    "original_text": "遇其配主，雖旬無咎，往有尚。",
+    "modern_translation": "遇見了匹配的主人（合作夥伴）。雖然相處只有十天（短暫），但沒有過失，前往會受到讚賞。比喻把握短暫的良機。",
+    "meaning_keywords": "良機, 合作, 匹配, 讚賞, 行動"
+  },
+  {
+    "hexagram": "豐卦",
+    "position": "六二",
+    "original_text": "豐其蔀，日中見斗，往得疑疾。有孚發若，吉。",
+    "modern_translation": "用草席遮蔽光芒，中午卻像半夜一樣看見北斗星（被蒙蔽）。如果貿然前往會被猜疑。只要發揮誠信，最終吉利。",
+    "meaning_keywords": "被蒙蔽, 猜疑, 誠信, 黑暗, 堅持"
+  },
+  {
+    "hexagram": "豐卦",
+    "position": "九三",
+    "original_text": "豐其沛，日中見沫，折其右肱，無咎。",
+    "modern_translation": "光芒被遮蔽，中午看見小星星。右手臂折斷了（失去得力助手），沒有過失。比喻局勢不明，無法行動，這不是你的錯。",
+    "meaning_keywords": "無力, 受傷, 停滯, 非戰之罪, 黑暗"
+  },
+  {
+    "hexagram": "豐卦",
+    "position": "九四",
+    "original_text": "豐其蔀，日中見斗，遇其夷主，吉。",
+    "modern_translation": "光芒被遮蔽，中午看見北斗星。但在黑暗中遇見了同樣被埋沒的明主，吉利。比喻在逆境中找到志同道合的夥伴。",
+    "meaning_keywords": "逆境, 夥伴, 相遇, 吉利, 同病相憐"
+  },
+  {
+    "hexagram": "豐卦",
+    "position": "六五",
+    "original_text": "來章，有慶譽，吉。",
+    "modern_translation": "招攬有文采的賢才，會有喜慶和聲譽，吉利。比喻位居高位者，若能謙虛納賢，就能維持豐盛。",
+    "meaning_keywords": "納賢, 喜慶, 名聲, 吉利, 合作"
+  },
+  {
+    "hexagram": "豐卦",
+    "position": "上六",
+    "original_text": "豐其屋，蔀其家，窺其戶，闃其無人，三歲不覿，凶。",
+    "modern_translation": "房子蓋得很大，卻用草蓆遮住家門（封閉自己）。從門縫看進去，空無一人。三年都不見人影，凶險。比喻因豐盛而傲慢孤獨，自絕於人。",
+    "meaning_keywords": "孤獨, 傲慢, 封閉, 凶險, 空虛"
+  },
+  {
+    "hexagram": "旅卦",
+    "position": "初六",
+    "original_text": "旅瑣瑣，斯其所取災。",
+    "modern_translation": "旅行時還關注瑣碎的小事（斤斤計較），這是自取災禍。比喻身在外地或處境不穩時，心胸狹隘會招致麻煩。",
+    "meaning_keywords": "斤斤計較, 狹隘, 災禍, 瑣碎, 不安"
+  },
+  {
+    "hexagram": "旅卦",
+    "position": "六二",
+    "original_text": "旅即次，懷其資，得童僕貞。",
+    "modern_translation": "旅行到了客舍安頓下來，懷裡有旅費，還得到了忠誠的僕人。比喻在不穩定的環境中，暫時獲得了安穩與資源。",
+    "meaning_keywords": "安頓, 資源, 忠誠, 暫時穩固,順利"
+  },
+  {
+    "hexagram": "旅卦",
+    "position": "九三",
+    "original_text": "旅焚其次，喪其童僕，貞厲。",
+    "modern_translation": "客舍失火了，失去了忠誠的僕人。即使堅守正道也處境危險。比喻因剛愎自用或處理不當，失去了安身之處與助手。",
+    "meaning_keywords": "失火, 失去助手, 危險, 孤立, 損失"
+  },
+  {
+    "hexagram": "旅卦",
+    "position": "九四",
+    "original_text": "旅于處，得其資斧，我心不快。",
+    "modern_translation": "雖然在客舍暫住，也獲得了路費和器具（資斧），但心裡不快樂。比喻物質雖不缺，但畢竟不是家，內心缺乏歸屬感。",
+    "meaning_keywords": "漂泊, 不快, 物質充足, 缺乏歸屬, 暫居"
+  },
+  {
+    "hexagram": "旅卦",
+    "position": "六五",
+    "original_text": "射雉一矢亡，終以譽命。",
+    "modern_translation": "射野雞時丟了一支箭，但最終獲得了榮譽和爵命。比喻雖然有一點小損失，但最終達成目標，名利雙收。",
+    "meaning_keywords": "小損失, 榮譽, 名利雙收, 達成目標, 吉利"
+  },
+  {
+    "hexagram": "旅卦",
+    "position": "上九",
+    "original_text": "鳥焚其巢，旅人先笑後號啕。喪牛于易，凶。",
+    "modern_translation": "鳥巢被燒毀（失去棲息地）。旅人先是大笑（得意忘形），後來痛哭。在邊界丟了牛，凶險。比喻傲慢自大，最終失去一切依託。",
+    "meaning_keywords": "失去依託, 傲慢, 樂極生悲, 凶險, 毀滅"
+  },
+  {
+    "hexagram": "巽卦",
+    "position": "初六",
+    "original_text": "進退，利武人之貞。",
+    "modern_translation": "進退猶豫不決。這時候利於像武人一樣果斷，堅守正道。比喻優柔寡斷時，需要強勢的決斷力。",
+    "meaning_keywords": "猶豫, 優柔寡斷, 果斷, 進退, 意志"
+  },
+  {
+    "hexagram": "巽卦",
+    "position": "九二",
+    "original_text": "巽在床下，用史巫紛若，吉，無咎。",
+    "modern_translation": "謙卑地伏在床下，像祝史巫覡一樣虔誠地禱告。吉利，沒有過失。比喻極度謙卑順從，尋求精神指引或溝通。",
+    "meaning_keywords": "謙卑, 禱告, 溝通, 誠心, 吉利"
+  },
+  {
+    "hexagram": "巽卦",
+    "position": "九三",
+    "original_text": "頻巽，吝。",
+    "modern_translation": "頻繁地表現順從（或皺著眉頭勉強順從），令人遺憾。比喻缺乏主見，隨風倒，或者心不甘情不願。",
+    "meaning_keywords": "勉強, 沒主見, 牆頭草, 遺憾, 頻繁"
+  },
+  {
+    "hexagram": "巽卦",
+    "position": "六四",
+    "original_text": "悔亡，田獲三品。",
+    "modern_translation": "悔恨消失。田獵獲得了三種獵物（收穫豐富）。比喻因為順應時勢、處置得當，獲得了巨大的功勞。",
+    "meaning_keywords": "收穫, 順應時勢, 功勞, 悔亡, 成功"
+  },
+  {
+    "hexagram": "巽卦",
+    "position": "九五",
+    "original_text": "貞吉，悔亡，無不利。無初有終。先庚三日，後庚三日，吉。",
+    "modern_translation": "堅守正道吉利，悔恨消失。雖然開始不太好，但結局很好。在變革前後的三天都要審慎規劃，吉利。比喻改革政令要反覆叮嚀。",
+    "meaning_keywords": "改革, 規劃, 善終, 吉利, 審慎"
+  },
+  {
+    "hexagram": "巽卦",
+    "position": "上九",
+    "original_text": "巽在床下，喪其資斧，貞凶。",
+    "modern_translation": "謙卑到躲在床下（過度卑微），失去了決斷的工具（資斧），堅持這樣會凶險。比喻卑躬屈膝過頭，反而失去了尊嚴和能力。",
+    "meaning_keywords": "過度卑微, 失去尊嚴, 無能, 凶險, 懦弱"
+  },
+  {
+    "hexagram": "兌卦",
+    "position": "初九",
+    "original_text": "和兌，吉。",
+    "modern_translation": "平和地與人喜悅相處，吉利。比喻人際關係和諧，溝通順暢。",
+    "meaning_keywords": "和諧, 溝通, 快樂, 吉利, 平和"
+  },
+  {
+    "hexagram": "兌卦",
+    "position": "九二",
+    "original_text": "孚兌，吉，悔亡。",
+    "modern_translation": "心中有誠信而喜悅，吉利，悔恨消失。比喻以誠待人，獲得真心的快樂。",
+    "meaning_keywords": "誠信, 真心, 快樂, 吉利, 交往"
+  },
+  {
+    "hexagram": "兌卦",
+    "position": "六三",
+    "original_text": "來兌，凶。",
+    "modern_translation": "為了尋求喜悅而來（特意討好或尋歡作樂），凶險。比喻動機不純的社交，或沈迷於感官享樂。",
+    "meaning_keywords": "討好, 享樂, 動機不純, 凶險, 諂媚"
+  },
+  {
+    "hexagram": "兌卦",
+    "position": "九四",
+    "original_text": "商兌，未寧，介疾有喜。",
+    "modern_translation": "商量著如何喜悅（猶豫不決），心神不寧。如果能像防病一樣隔絕小人的誘惑，就會有喜事。比喻在正邪之間掙扎。",
+    "meaning_keywords": "猶豫, 商量, 掙扎, 拒絕誘惑, 喜事"
+  },
+  {
+    "hexagram": "兌卦",
+    "position": "九五",
+    "original_text": "孚于剝，有厲。",
+    "modern_translation": "誠信被小人（剝爛者）所利用，有危險。比喻雖然身居高位，但容易被身邊的小人矇騙。",
+    "meaning_keywords": "被利用, 蒙騙, 危險, 小人, 盲信"
+  },
+  {
+    "hexagram": "兌卦",
+    "position": "上六",
+    "original_text": "引兌。",
+    "modern_translation": "牽引著大家一起喜悅（或被引誘去享樂）。未說明吉凶，取決於引導的方向是善是惡。",
+    "meaning_keywords": "牽引, 影響, 享樂, 未知, 隨波逐流"
+  },
+  {
+    "hexagram": "渙卦",
+    "position": "初六",
+    "original_text": "用拯馬壯，吉。",
+    "modern_translation": "用強壯的馬來拯救（迅速脫離險境），吉利。比喻在渙散初期，藉助強大的力量來穩住局勢。",
+    "meaning_keywords": "拯救, 迅速, 借力, 吉利, 穩住"
+  },
+  {
+    "hexagram": "渙卦",
+    "position": "九二",
+    "original_text": "渙奔其機，悔亡。",
+    "modern_translation": "在渙散奔逃時，趕快尋找依靠（機），悔恨消失。比喻在動盪中找到了安身之所。",
+    "meaning_keywords": "依靠, 動盪, 安身, 悔亡, 避難"
+  },
+  {
+    "hexagram": "渙卦",
+    "position": "六三",
+    "original_text": "渙其躬，無悔。",
+    "modern_translation": "渙散了自己的私心（或犧牲自己），沒有悔恨。比喻為了大局而犧牲小我，消除私念。",
+    "meaning_keywords": "無私, 犧牲, 大局, 無悔, 消除私心"
+  },
+  {
+    "hexagram": "渙卦",
+    "position": "六四",
+    "original_text": "渙其群，元吉。渙有丘，匪夷所思。",
+    "modern_translation": "解散小團體（打破派系），大吉大利。聚集眾人像山丘一樣多，這不是常人能想到的。比喻打破隔閡，團結大眾。",
+    "meaning_keywords": "打破派系, 團結, 大吉, 號召, 消除隔閡"
+  },
+  {
+    "hexagram": "渙卦",
+    "position": "九五",
+    "original_text": "渙汗其大號，渙王居，無咎。",
+    "modern_translation": "像流汗一樣發布重大號令（收不回來），王正居其位，沒有過失。比喻用重大的政策或行動來挽救渙散的局勢。",
+    "meaning_keywords": "號令, 挽救, 決策, 權威, 穩定"
+  },
+  {
+    "hexagram": "渙卦",
+    "position": "上九",
+    "original_text": "渙其血，去逖出，無咎。",
+    "modern_translation": "渙散了血光之災（化解仇恨），遠遠地避開傷害，沒有過失。比喻徹底化解了危險和衝突。",
+    "meaning_keywords": "化解仇恨, 避險, 和平, 遠離傷害, 無咎"
+  },
+  {
+    "hexagram": "節卦",
+    "position": "初九",
+    "original_text": "不出戶庭，無咎。",
+    "modern_translation": "知道節制，不出自家門庭（慎言慎行）。時機未到不輕易表現，沒有過失。",
+    "meaning_keywords": "不出門, 慎言, 節制, 保守, 無咎"
+  },
+  {
+    "hexagram": "節卦",
+    "position": "九二",
+    "original_text": "不出門庭，凶。",
+    "modern_translation": "時機到了該出去卻不出門庭（過度節制），錯失良機，凶險。比喻因保守而失去機會。",
+    "meaning_keywords": "過度保守, 錯失良機, 凶險, 封閉, 遺憾"
+  },
+  {
+    "hexagram": "節卦",
+    "position": "六三",
+    "original_text": "不節若，則嗟若，無咎。",
+    "modern_translation": "不能自我節制，導致事後嗟嘆後悔。這是自作自受，怪不得別人（雖然痛苦，但責任在己，故無咎）。",
+    "meaning_keywords": "放縱, 後悔, 自作自受, 嘆氣, 無節制"
+  },
+  {
+    "hexagram": "節卦",
+    "position": "六四",
+    "original_text": "安節，亨。",
+    "modern_translation": "安於節制（習慣了規矩），亨通。比喻能自然地遵守法度，不覺得勉強。",
+    "meaning_keywords": "安分, 亨通, 習慣, 規矩, 自然"
+  },
+  {
+    "hexagram": "節卦",
+    "position": "九五",
+    "original_text": "甘節，吉，往有尚。",
+    "modern_translation": "甘願節制（以節制為樂），吉利，前往會受到獎賞。比喻制定讓人心悅誠服的制度，推行順利。",
+    "meaning_keywords": "心悅誠服, 制度, 吉利, 獎賞, 快樂"
+  },
+  {
+    "hexagram": "節卦",
+    "position": "上六",
+    "original_text": "苦節，貞凶，悔亡。",
+    "modern_translation": "過於嚴苛痛苦的節制，堅持下去會凶險。但如果能改過，悔恨就會消失。比喻制度太嚴苛，令人難以忍受。",
+    "meaning_keywords": "嚴苛, 痛苦, 凶險, 極端, 反省"
+  },
+  {
+    "hexagram": "中孚卦",
+    "position": "初九",
+    "original_text": "虞吉，有它不燕。",
+    "modern_translation": "專一戒備則吉利，如果心有旁騖（有它）就不安寧。比喻誠信需要專注，不可三心二意。",
+    "meaning_keywords": "專一, 戒備, 誠信, 吉利, 專注"
+  },
+  {
+    "hexagram": "中孚卦",
+    "position": "九二",
+    "original_text": "鳴鶴在陰，其子和之。我有好爵，吾與爾靡之。",
+    "modern_translation": "母鶴在樹蔭下鳴叫，小鶴在遠處應和。我有美酒，願意與你共享。比喻誠信能引起共鳴，感召他人。",
+    "meaning_keywords": "共鳴, 分享, 感召, 誠信, 和諧"
+  },
+  {
+    "hexagram": "中孚卦",
+    "position": "六三",
+    "original_text": "得敵，或鼓或罷，或泣或歌。",
+    "modern_translation": "遇到了強敵（或勢均力敵的對手），一會兒擊鼓進攻，一會兒罷兵，一會兒哭泣，一會兒高歌。比喻內心誠信不足，情緒起伏不定。",
+    "meaning_keywords": "情緒化, 不穩定, 猶豫, 哭笑無常, 誠信不足"
+  },
+  {
+    "hexagram": "中孚卦",
+    "position": "六四",
+    "original_text": "月幾望，馬匹亡，無咎。",
+    "modern_translation": "月亮快圓了。良馬跑丟了（為了誠信而斷絕了私交），沒有過失。比喻為了效忠上級（正道），不得不犧牲小圈子的利益。",
+    "meaning_keywords": "犧牲, 忠誠, 斷絕私交, 圓滿, 無咎"
+  },
+  {
+    "hexagram": "中孚卦",
+    "position": "九五",
+    "original_text": "有孚攣如，無咎。",
+    "modern_translation": "誠信緊密連結（像孿生一樣），沒有過失。比喻君民一體，互相信任。",
+    "meaning_keywords": "緊密, 連結, 信任, 團結, 無咎"
+  },
+  {
+    "hexagram": "中孚卦",
+    "position": "上九",
+    "original_text": "翰音登于天，貞凶。",
+    "modern_translation": "雞鳴聲飛到了天上（虛張聲勢），堅持這樣會凶險。比喻信誓旦旦卻做不到，言過其實。",
+    "meaning_keywords": "吹牛, 虛張聲勢, 凶險, 信用破產, 誇大"
+  },
+  {
+    "hexagram": "小過卦",
+    "position": "初六",
+    "original_text": "飛鳥以凶。",
+    "modern_translation": "飛鳥飛得太高（好高騖遠），會有凶險。比喻能力不足卻想做大事，必遭失敗。",
+    "meaning_keywords": "好高騖遠, 凶險, 失敗, 自不量力, 飛鳥"
+  },
+  {
+    "hexagram": "小過卦",
+    "position": "六二",
+    "original_text": "過其祖，遇其妣；不及其君，遇其臣，無咎。",
+    "modern_translation": "超過了祖父，遇見了祖母（比喻稍微過度但仍屬柔順）；沒能見到君王，遇見了臣子。沒有過失。比喻做事稍微超過一點常規，但在可控範圍內。",
+    "meaning_keywords": "稍微過度, 變通, 遇見, 無咎, 細節"
+  },
+  {
+    "hexagram": "小過卦",
+    "position": "九三",
+    "original_text": "弗過防之，從或戕之，凶。",
+    "modern_translation": "不加強防備，或者盲目跟從，反而會被傷害，凶險。比喻在小事上如果不謹慎防範，會招致大禍。",
+    "meaning_keywords": "防備, 傷害, 凶險, 疏忽, 盲從"
+  },
+  {
+    "hexagram": "小過卦",
+    "position": "九四",
+    "original_text": "無咎，弗過遇之。往厲必戒，勿用永貞。",
+    "modern_translation": "沒有過失，不過分剛強就能相遇。前往會有危險，必須戒備，不宜堅持長久。比喻宜柔不宜剛，要懂得妥協。",
+    "meaning_keywords": "妥協, 戒備, 危險, 柔和, 短期"
+  },
+  {
+    "hexagram": "小過卦",
+    "position": "六五",
+    "original_text": "密雲不雨，自我西郊，公弋取彼在穴。",
+    "modern_translation": "烏雲密佈卻不下雨（陰氣太盛）。王公射箭抓住了躲在穴中的獵物。比喻雖然大環境不好，但從小處著手仍有收穫。",
+    "meaning_keywords": "抓重點, 收穫, 陰沈, 悶局, 小事"
+  },
+  {
+    "hexagram": "小過卦",
+    "position": "上六",
+    "original_text": "弗遇過之，飛鳥離之，凶，是謂災眚。",
+    "modern_translation": "沒有相遇反而飛過去了，飛鳥遭遇羅網（飛太高被抓），凶險，這是自找的災禍。比喻傲慢自大，自取滅亡。",
+    "meaning_keywords": "自取滅亡, 羅網, 傲慢, 凶險, 過度"
+  },
+  {
+    "hexagram": "既濟卦",
+    "position": "初九",
+    "original_text": "曳其輪，濡其尾，無咎。",
+    "modern_translation": "拉住車輪（煞車），小狐狸沾濕了尾巴。沒有過失。比喻事情剛成功，要小心謹慎，不要衝過頭。",
+    "meaning_keywords": "煞車, 謹慎, 初成, 無咎, 小心"
+  },
+  {
+    "hexagram": "既濟卦",
+    "position": "六二",
+    "original_text": "婦喪其弗，勿逐，七日得。",
+    "modern_translation": "婦人丟失了頭巾（象徵遮蔽或保護），不要去追，七天後會找回來。比喻成功後可能會有些小損失或中傷，保持耐心即可。",
+    "meaning_keywords": "耐心, 損失, 失而復得, 成功後, 等待"
+  },
+  {
+    "hexagram": "既濟卦",
+    "position": "九三",
+    "original_text": "高宗伐鬼方，三年克之，小人勿用。",
+    "modern_translation": "高宗討伐鬼方國，三年才攻下來。不可重用小人。比喻成功來之不易，維護成果很艱難，要慎用人才。",
+    "meaning_keywords": "艱難, 守成, 慎用人, 戰爭, 消耗"
+  },
+  {
+    "hexagram": "既濟卦",
+    "position": "六四",
+    "original_text": "繻有衣袽，終日戒。",
+    "modern_translation": "準備好破布棉絮來堵塞船漏，整天警戒。比喻處於完美的狀態時，更要防微杜漸，防止衰敗。",
+    "meaning_keywords": "防微杜漸, 警戒, 補漏, 危機感, 維護"
+  },
+  {
+    "hexagram": "既濟卦",
+    "position": "九五",
+    "original_text": "東鄰殺牛，不如西鄰之禴祭，實受其福。",
+    "modern_translation": "東邊鄰居殺牛祭祀（鋪張），不如西邊鄰居簡單的祭祀（誠心），後者反而真受福佑。比喻成功後重在誠心，而非排場。",
+    "meaning_keywords": "誠心, 節約, 形式主義, 福氣, 務實"
+  },
+  {
+    "hexagram": "既濟卦",
+    "position": "上六",
+    "original_text": "濡其首，厲。",
+    "modern_translation": "水淹沒了頭頂，危險。比喻在成功的頂峰如果不謹慎，就會遭遇滅頂之災（盛極而衰）。",
+    "meaning_keywords": "滅頂, 盛極而衰, 危險, 過度, 終點"
+  },
+  {
+    "hexagram": "未濟卦",
+    "position": "初六",
+    "original_text": "濡其尾，吝。",
+    "modern_translation": "小狐狸渡河弄濕了尾巴，令人遺憾。比喻事情剛開始，因為經驗不足而受挫。",
+    "meaning_keywords": "受挫, 經驗不足, 開始, 遺憾, 嘗試"
+  },
+  {
+    "hexagram": "未濟卦",
+    "position": "九二",
+    "original_text": "曳其輪，貞吉。",
+    "modern_translation": "拉住車輪（控制速度），堅持正道吉利。比喻在混亂中能穩住陣腳，等待時機。",
+    "meaning_keywords": "穩住, 控制, 等待, 吉利, 耐心"
+  },
+  {
+    "hexagram": "未濟卦",
+    "position": "六三",
+    "original_text": "未濟，征凶，利涉大川。",
+    "modern_translation": "還沒渡過河，貿然出征凶險。但利於做好準備去冒險渡河。比喻現狀不利，需要改變策略再前進。",
+    "meaning_keywords": "改變策略, 凶險, 冒險, 準備, 未完成"
+  },
+  {
+    "hexagram": "未濟卦",
+    "position": "九四",
+    "original_text": "貞吉，悔亡，震用伐鬼方，三年有賞于大國。",
+    "modern_translation": "堅守正道吉利，悔恨消失。奮力討伐鬼方國，三年成功並獲賞。比喻經過長期努力，終於扭轉乾坤。",
+    "meaning_keywords": "扭轉乾坤, 努力, 成功, 獎賞, 奮鬥"
+  },
+  {
+    "hexagram": "未濟卦",
+    "position": "六五",
+    "original_text": "貞吉，無悔，君子之光，有孚，吉。",
+    "modern_translation": "堅守正道吉利，沒有悔恨。君子的光輝顯露，有誠信，吉利。比喻充滿希望，即將迎來成功。",
+    "meaning_keywords": "希望, 光輝, 誠信, 吉利, 黎明"
+  },
+  {
+    "hexagram": "未濟卦",
+    "position": "上九",
+    "original_text": "有孚于飲酒，無咎。濡其首，有孚失是。",
+    "modern_translation": "在飲酒慶祝時有誠信（適度），沒有過失。但如果喝醉弄濕了頭（放縱），就會失去誠信與原則。比喻在成功的黎明前，最忌放縱。",
+    "meaning_keywords": "節制, 放縱, 慶祝, 失去原則, 警告"
+  }
+]

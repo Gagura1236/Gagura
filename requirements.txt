@@ -1,0 +1,9 @@
+streamlit
+pandas
+torch
+sentence-transformers
+langchain-groq
+google-generativeai
+openai
+requests
+Pillow
