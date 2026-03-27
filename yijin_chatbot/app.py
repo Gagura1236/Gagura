@@ -32,7 +32,7 @@ st.markdown("""
 @st.cache_resource
 def load_resources():
     try:
-        df = pd.read_json('yi_jing_data.json')
+        df = pd.read_json('yijin_chatbot/yi_jing_data.json')
         df['search_text'] = df['modern_translation'] + " " + df['meaning_keywords']
     except Exception as e:
         st.error(f"找不到 yi_jing_data.json，請確認檔案位置。錯誤訊息: {e}")
